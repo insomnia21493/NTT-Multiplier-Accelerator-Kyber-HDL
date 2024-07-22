@@ -1,0 +1,6675 @@
+Hello World!
+============================================================================
+len = 128
+============================================================================
+**************************************
+start = 0
+**************************************
+----------------
+j = 0  and jplen = 128  zeta# is = 1
+zeta = 6c1
+before r[j] = c3d
+before r[jplen] = ab3
+after r[j] = 6a1
+after r[jplen] = 4d8
+----------------
+j = 1  and jplen = 129  zeta# is = 1
+zeta = 6c1
+before r[j] = 429
+before r[jplen] = 196
+after r[j] = 26c
+after r[jplen] = 5e6
+----------------
+j = 2  and jplen = 130  zeta# is = 1
+zeta = 6c1
+before r[j] = a15
+before r[jplen] = 86c
+after r[j] = 721
+after r[jplen] = 8
+----------------
+j = 3  and jplen = 131  zeta# is = 1
+zeta = 6c1
+before r[j] = 5bd
+before r[jplen] = 5fa
+after r[j] = 11c
+after r[jplen] = a5e
+----------------
+j = 4  and jplen = 132  zeta# is = 1
+zeta = 6c1
+before r[j] = 9f
+before r[jplen] = bfc
+after r[j] = 662
+after r[jplen] = 7dd
+----------------
+j = 5  and jplen = 133  zeta# is = 1
+zeta = 6c1
+before r[j] = 64f
+before r[jplen] = 126
+after r[j] = 25c
+after r[jplen] = a42
+----------------
+j = 6  and jplen = 134  zeta# is = 1
+zeta = 6c1
+before r[j] = 68d
+before r[jplen] = 2da
+after r[j] = 86c
+after r[jplen] = 4ae
+----------------
+j = 7  and jplen = 135  zeta# is = 1
+zeta = 6c1
+before r[j] = 416
+before r[jplen] = 286
+after r[j] = acd
+after r[jplen] = a60
+----------------
+j = 8  and jplen = 136  zeta# is = 1
+zeta = 6c1
+before r[j] = 6ac
+before r[jplen] = c7f
+after r[j] = cee
+after r[jplen] = 6a
+----------------
+j = 9  and jplen = 137  zeta# is = 1
+zeta = 6c1
+before r[j] = ba5
+before r[jplen] = 65f
+after r[j] = cf5
+after r[jplen] = a55
+----------------
+j = 10  and jplen = 138  zeta# is = 1
+zeta = 6c1
+before r[j] = e4
+before r[jplen] = 443
+after r[j] = 931
+after r[jplen] = 598
+----------------
+j = 11  and jplen = 139  zeta# is = 1
+zeta = 6c1
+before r[j] = b6d
+before r[jplen] = 93b
+after r[j] = 21c
+after r[jplen] = 7bd
+----------------
+j = 12  and jplen = 140  zeta# is = 1
+zeta = 6c1
+before r[j] = 9c6
+before r[jplen] = a66
+after r[j] = 445
+after r[jplen] = 246
+----------------
+j = 13  and jplen = 141  zeta# is = 1
+zeta = 6c1
+before r[j] = bf4
+before r[jplen] = 8a6
+after r[j] = a9c
+after r[jplen] = 4b
+----------------
+j = 14  and jplen = 142  zeta# is = 1
+zeta = 6c1
+before r[j] = 479
+before r[jplen] = 1c9
+after r[j] = 915
+after r[jplen] = cde
+----------------
+j = 15  and jplen = 143  zeta# is = 1
+zeta = 6c1
+before r[j] = 27
+before r[jplen] = 5ce
+after r[j] = a72
+after r[jplen] = 2dd
+----------------
+j = 16  and jplen = 144  zeta# is = 1
+zeta = 6c1
+before r[j] = 220
+before r[jplen] = 3c5
+after r[j] = 4b0
+after r[jplen] = c91
+----------------
+j = 17  and jplen = 145  zeta# is = 1
+zeta = 6c1
+before r[j] = ad5
+before r[jplen] = b8d
+after r[j] = 822
+after r[jplen] = 87
+----------------
+j = 18  and jplen = 146  zeta# is = 1
+zeta = 6c1
+before r[j] = 925
+before r[jplen] = a97
+after r[j] = 97c
+after r[jplen] = 8ce
+----------------
+j = 19  and jplen = 147  zeta# is = 1
+zeta = 6c1
+before r[j] = 4c9
+before r[jplen] = 54
+after r[j] = cf2
+after r[jplen] = 9a1
+----------------
+j = 20  and jplen = 148  zeta# is = 1
+zeta = 6c1
+before r[j] = a02
+before r[jplen] = 4ac
+after r[j] = c41
+after r[jplen] = 7c3
+----------------
+j = 21  and jplen = 149  zeta# is = 1
+zeta = 6c1
+before r[j] = 93c
+before r[jplen] = 201
+after r[j] = 1f2
+after r[jplen] = 385
+----------------
+j = 22  and jplen = 150  zeta# is = 1
+zeta = 6c1
+before r[j] = 8dd
+before r[jplen] = df
+after r[j] = 688
+after r[jplen] = b32
+----------------
+j = 23  and jplen = 151  zeta# is = 1
+zeta = 6c1
+before r[j] = 59d
+before r[jplen] = 454
+after r[j] = bb2
+after r[jplen] = c89
+----------------
+j = 24  and jplen = 152  zeta# is = 1
+zeta = 6c1
+before r[j] = 2a8
+before r[jplen] = 20e
+after r[j] = 525
+after r[jplen] = 2b
+----------------
+j = 25  and jplen = 153  zeta# is = 1
+zeta = 6c1
+before r[j] = 844
+before r[jplen] = 690
+after r[j] = 26b
+after r[jplen] = 11c
+----------------
+j = 26  and jplen = 154  zeta# is = 1
+zeta = 6c1
+before r[j] = 98b
+before r[jplen] = 633
+after r[j] = cc6
+after r[jplen] = 650
+----------------
+j = 27  and jplen = 155  zeta# is = 1
+zeta = 6c1
+before r[j] = 4e7
+before r[jplen] = 21d
+after r[j] = 4ab
+after r[jplen] = 523
+----------------
+j = 28  and jplen = 156  zeta# is = 1
+zeta = 6c1
+before r[j] = 539
+before r[jplen] = 43a
+after r[j] = 4c1
+after r[jplen] = 5b1
+----------------
+j = 29  and jplen = 157  zeta# is = 1
+zeta = 6c1
+before r[j] = 6e3
+before r[jplen] = 488
+after r[j] = 10
+after r[jplen] = b5
+----------------
+j = 30  and jplen = 158  zeta# is = 1
+zeta = 6c1
+before r[j] = 6c9
+before r[jplen] = 563
+after r[j] = 9a0
+after r[jplen] = 3f2
+----------------
+j = 31  and jplen = 159  zeta# is = 1
+zeta = 6c1
+before r[j] = a4e
+before r[jplen] = a33
+after r[j] = b75
+after r[jplen] = 927
+----------------
+j = 32  and jplen = 160  zeta# is = 1
+zeta = 6c1
+before r[j] = 90c
+before r[jplen] = 6b6
+after r[j] = cc6
+after r[jplen] = 552
+----------------
+j = 33  and jplen = 161  zeta# is = 1
+zeta = 6c1
+before r[j] = ae6
+before r[jplen] = 7e4
+after r[j] = cb1
+after r[jplen] = 91b
+----------------
+j = 34  and jplen = 162  zeta# is = 1
+zeta = 6c1
+before r[j] = 8a
+before r[jplen] = 88b
+after r[j] = be6
+after r[jplen] = 22f
+----------------
+j = 35  and jplen = 163  zeta# is = 1
+zeta = 6c1
+before r[j] = 641
+before r[jplen] = 2ea
+after r[j] = c28
+after r[jplen] = 5a
+----------------
+j = 36  and jplen = 164  zeta# is = 1
+zeta = 6c1
+before r[j] = 261
+before r[jplen] = 221
+after r[j] = 327
+after r[jplen] = 19b
+----------------
+j = 37  and jplen = 165  zeta# is = 1
+zeta = 6c1
+before r[j] = b12
+before r[jplen] = 4e1
+after r[j] = 72a
+after r[jplen] = 1f9
+----------------
+j = 38  and jplen = 166  zeta# is = 1
+zeta = 6c1
+before r[j] = c17
+before r[jplen] = b6
+after r[j] = 5ee
+after r[jplen] = 53f
+----------------
+j = 39  and jplen = 167  zeta# is = 1
+zeta = 6c1
+before r[j] = a2a
+before r[jplen] = a39
+after r[j] = cd4
+after r[jplen] = 780
+----------------
+j = 40  and jplen = 168  zeta# is = 1
+zeta = 6c1
+before r[j] = b32
+before r[jplen] = 755
+after r[j] = 978
+after r[jplen] = cec
+----------------
+j = 41  and jplen = 169  zeta# is = 1
+zeta = 6c1
+before r[j] = 159
+before r[jplen] = 785
+after r[j] = bb7
+after r[jplen] = 3fc
+----------------
+j = 42  and jplen = 170  zeta# is = 1
+zeta = 6c1
+before r[j] = 8c3
+before r[jplen] = 80d
+after r[j] = 161
+after r[jplen] = 324
+----------------
+j = 43  and jplen = 171  zeta# is = 1
+zeta = 6c1
+before r[j] = 2ac
+before r[jplen] = 447
+after r[j] = bfb
+after r[jplen] = 65e
+----------------
+j = 44  and jplen = 172  zeta# is = 1
+zeta = 6c1
+before r[j] = 40
+before r[jplen] = a53
+after r[j] = 977
+after r[jplen] = 40a
+----------------
+j = 45  and jplen = 173  zeta# is = 1
+zeta = 6c1
+before r[j] = 21b
+before r[jplen] = 556
+after r[j] = 82c
+after r[jplen] = 90b
+----------------
+j = 46  and jplen = 174  zeta# is = 1
+zeta = 6c1
+before r[j] = 7db
+before r[jplen] = 70b
+after r[j] = 7d
+after r[jplen] = 238
+----------------
+j = 47  and jplen = 175  zeta# is = 1
+zeta = 6c1
+before r[j] = 92d
+before r[jplen] = 4c8
+after r[j] = 579
+after r[jplen] = ce1
+----------------
+j = 48  and jplen = 176  zeta# is = 1
+zeta = 6c1
+before r[j] = 96
+before r[jplen] = 846
+after r[j] = 110
+after r[jplen] = 1c
+----------------
+j = 49  and jplen = 177  zeta# is = 1
+zeta = 6c1
+before r[j] = 8b1
+before r[jplen] = 806
+after r[j] = 60c
+after r[jplen] = b56
+----------------
+j = 50  and jplen = 178  zeta# is = 1
+zeta = 6c1
+before r[j] = 554
+before r[jplen] = 7bf
+after r[j] = 44d
+after r[jplen] = 65b
+----------------
+j = 51  and jplen = 179  zeta# is = 1
+zeta = 6c1
+before r[j] = 37d
+before r[jplen] = ac6
+after r[j] = 92b
+after r[jplen] = ad0
+----------------
+j = 52  and jplen = 180  zeta# is = 1
+zeta = 6c1
+before r[j] = 5b8
+before r[jplen] = cc5
+after r[j] = 39b
+after r[jplen] = 7d5
+----------------
+j = 53  and jplen = 181  zeta# is = 1
+zeta = 6c1
+before r[j] = 5b6
+before r[jplen] = 552
+after r[j] = ac5
+after r[jplen] = a7
+----------------
+j = 54  and jplen = 182  zeta# is = 1
+zeta = 6c1
+before r[j] = 58b
+before r[jplen] = bf9
+after r[j] = 40c
+after r[jplen] = 70a
+----------------
+j = 55  and jplen = 183  zeta# is = 1
+zeta = 6c1
+before r[j] = 76b
+before r[jplen] = 5aa
+after r[j] = 8a4
+after r[jplen] = 632
+----------------
+j = 56  and jplen = 184  zeta# is = 1
+zeta = 6c1
+before r[j] = 833
+before r[jplen] = 8a6
+after r[j] = 6db
+after r[jplen] = 98b
+----------------
+j = 57  and jplen = 185  zeta# is = 1
+zeta = 6c1
+before r[j] = 198
+before r[jplen] = 3f3
+after r[j] = 2be
+after r[jplen] = 72
+----------------
+j = 58  and jplen = 186  zeta# is = 1
+zeta = 6c1
+before r[j] = 553
+before r[jplen] = aee
+after r[j] = 814
+after r[jplen] = 292
+----------------
+j = 59  and jplen = 187  zeta# is = 1
+zeta = 6c1
+before r[j] = ca9
+before r[jplen] = 7dc
+after r[j] = c70
+after r[jplen] = ce2
+----------------
+j = 60  and jplen = 188  zeta# is = 1
+zeta = 6c1
+before r[j] = 7ef
+before r[jplen] = 812
+after r[j] = 850
+after r[jplen] = 78e
+----------------
+j = 61  and jplen = 189  zeta# is = 1
+zeta = 6c1
+before r[j] = 6d1
+before r[jplen] = 21
+after r[j] = 8a1
+after r[jplen] = 501
+----------------
+j = 62  and jplen = 190  zeta# is = 1
+zeta = 6c1
+before r[j] = b8f
+before r[jplen] = 710
+after r[j] = bf4
+after r[jplen] = b2a
+----------------
+j = 63  and jplen = 191  zeta# is = 1
+zeta = 6c1
+before r[j] = 2f4
+before r[jplen] = 5fa
+after r[j] = b54
+after r[jplen] = 795
+----------------
+j = 64  and jplen = 192  zeta# is = 1
+zeta = 6c1
+before r[j] = 552
+before r[jplen] = 8e6
+after r[j] = 719
+after r[jplen] = 38b
+----------------
+j = 65  and jplen = 193  zeta# is = 1
+zeta = 6c1
+before r[j] = 50c
+before r[jplen] = 108
+after r[j] = 68b
+after r[jplen] = 38d
+----------------
+j = 66  and jplen = 194  zeta# is = 1
+zeta = 6c1
+before r[j] = 98
+before r[jplen] = 358
+after r[j] = 834
+after r[jplen] = 5fd
+----------------
+j = 67  and jplen = 195  zeta# is = 1
+zeta = 6c1
+before r[j] = 6d3
+before r[jplen] = 975
+after r[j] = c1f
+after r[jplen] = 187
+----------------
+j = 68  and jplen = 196  zeta# is = 1
+zeta = 6c1
+before r[j] = a0
+before r[jplen] = b46
+after r[j] = c8c
+after r[jplen] = 1b5
+----------------
+j = 69  and jplen = 197  zeta# is = 1
+zeta = 6c1
+before r[j] = 221
+before r[jplen] = 62c
+after r[j] = a19
+after r[jplen] = 72a
+----------------
+j = 70  and jplen = 198  zeta# is = 1
+zeta = 6c1
+before r[j] = a2e
+before r[jplen] = 159
+after r[j] = c94
+after r[jplen] = 7c8
+----------------
+j = 71  and jplen = 199  zeta# is = 1
+zeta = 6c1
+before r[j] = 4db
+before r[jplen] = 310
+after r[j] = 754
+after r[jplen] = 262
+----------------
+j = 72  and jplen = 200  zeta# is = 1
+zeta = 6c1
+before r[j] = 368
+before r[jplen] = a73
+after r[j] = 7ae
+after r[jplen] = c23
+----------------
+j = 73  and jplen = 201  zeta# is = 1
+zeta = 6c1
+before r[j] = bc7
+before r[jplen] = 605
+after r[j] = 36b
+after r[jplen] = 722
+----------------
+j = 74  and jplen = 202  zeta# is = 1
+zeta = 6c1
+before r[j] = 301
+before r[jplen] = 40b
+after r[j] = a33
+after r[jplen] = 8d0
+----------------
+j = 75  and jplen = 203  zeta# is = 1
+zeta = 6c1
+before r[j] = b4e
+before r[jplen] = 466
+after r[j] = 8eb
+after r[jplen] = b0
+----------------
+j = 76  and jplen = 204  zeta# is = 1
+zeta = 6c1
+before r[j] = 376
+before r[jplen] = b4e
+after r[j] = 465
+after r[jplen] = 287
+----------------
+j = 77  and jplen = 205  zeta# is = 1
+zeta = 6c1
+before r[j] = 5d5
+before r[jplen] = 3d9
+after r[j] = 6e
+after r[jplen] = b3c
+----------------
+j = 78  and jplen = 206  zeta# is = 1
+zeta = 6c1
+before r[j] = 270
+before r[jplen] = 80e
+after r[j] = 1cf
+after r[jplen] = 311
+----------------
+j = 79  and jplen = 207  zeta# is = 1
+zeta = 6c1
+before r[j] = 6be
+before r[jplen] = b01
+after r[j] = 7c8
+after r[jplen] = 5b4
+----------------
+j = 80  and jplen = 208  zeta# is = 1
+zeta = 6c1
+before r[j] = 451
+before r[jplen] = 920
+after r[j] = 7b4
+after r[jplen] = ee
+----------------
+j = 81  and jplen = 209  zeta# is = 1
+zeta = 6c1
+before r[j] = 256
+before r[jplen] = 5d3
+after r[j] = 763
+after r[jplen] = a4a
+----------------
+j = 82  and jplen = 210  zeta# is = 1
+zeta = 6c1
+before r[j] = 668
+before r[jplen] = 109
+after r[j] = 1a7
+after r[jplen] = b29
+----------------
+j = 83  and jplen = 211  zeta# is = 1
+zeta = 6c1
+before r[j] = 971
+before r[jplen] = cb0
+after r[j] = 88a
+after r[jplen] = a58
+----------------
+j = 84  and jplen = 212  zeta# is = 1
+zeta = 6c1
+before r[j] = 7d4
+before r[jplen] = 21f
+after r[j] = 819
+after r[jplen] = 78f
+----------------
+j = 85  and jplen = 213  zeta# is = 1
+zeta = 6c1
+before r[j] = 744
+before r[jplen] = 9b
+after r[j] = ce
+after r[jplen] = b9
+----------------
+j = 86  and jplen = 214  zeta# is = 1
+zeta = 6c1
+before r[j] = 7a6
+before r[jplen] = 64c
+after r[j] = aad
+after r[jplen] = 49f
+----------------
+j = 87  and jplen = 215  zeta# is = 1
+zeta = 6c1
+before r[j] = 64e
+before r[jplen] = 8da
+after r[j] = 50f
+after r[jplen] = 78d
+----------------
+j = 88  and jplen = 216  zeta# is = 1
+zeta = 6c1
+before r[j] = a9f
+before r[jplen] = 4b6
+after r[j] = 262
+after r[jplen] = 5db
+----------------
+j = 89  and jplen = 217  zeta# is = 1
+zeta = 6c1
+before r[j] = 134
+before r[jplen] = e1
+after r[j] = c61
+after r[jplen] = 308
+----------------
+j = 90  and jplen = 218  zeta# is = 1
+zeta = 6c1
+before r[j] = 4c3
+before r[jplen] = c9e
+after r[j] = c54
+after r[jplen] = a33
+----------------
+j = 91  and jplen = 219  zeta# is = 1
+zeta = 6c1
+before r[j] = cfa
+before r[jplen] = 4f
+after r[j] = 5f
+after r[jplen] = c94
+----------------
+j = 92  and jplen = 220  zeta# is = 1
+zeta = 6c1
+before r[j] = 286
+before r[jplen] = acb
+after r[j] = 2f6
+after r[jplen] = 216
+----------------
+j = 93  and jplen = 221  zeta# is = 1
+zeta = 6c1
+before r[j] = 895
+before r[jplen] = 5ca
+after r[j] = 4dd
+after r[jplen] = c4d
+----------------
+j = 94  and jplen = 222  zeta# is = 1
+zeta = 6c1
+before r[j] = 397
+before r[jplen] = aca
+after r[j] = a47
+after r[jplen] = 9e8
+----------------
+j = 95  and jplen = 223  zeta# is = 1
+zeta = 6c1
+before r[j] = ca7
+before r[jplen] = a72
+after r[j] = a2c
+after r[jplen] = 221
+----------------
+j = 96  and jplen = 224  zeta# is = 1
+zeta = 6c1
+before r[j] = 6b2
+before r[jplen] = a4e
+after r[j] = 826
+after r[jplen] = 53e
+----------------
+j = 97  and jplen = 225  zeta# is = 1
+zeta = 6c1
+before r[j] = 679
+before r[jplen] = ab2
+after r[j] = 71d
+after r[jplen] = 5d5
+----------------
+j = 98  and jplen = 226  zeta# is = 1
+zeta = 6c1
+before r[j] = 577
+before r[jplen] = 965
+after r[j] = 6bb
+after r[jplen] = 433
+----------------
+j = 99  and jplen = 227  zeta# is = 1
+zeta = 6c1
+before r[j] = cb5
+before r[jplen] = 652
+after r[j] = 43e
+after r[jplen] = 82b
+----------------
+j = 100  and jplen = 228  zeta# is = 1
+zeta = 6c1
+before r[j] = 83f
+before r[jplen] = 33a
+after r[j] = 84c
+after r[jplen] = 832
+----------------
+j = 101  and jplen = 229  zeta# is = 1
+zeta = 6c1
+before r[j] = 729
+before r[jplen] = 447
+after r[j] = 377
+after r[jplen] = adb
+----------------
+j = 102  and jplen = 230  zeta# is = 1
+zeta = 6c1
+before r[j] = 9b6
+before r[jplen] = 560
+after r[j] = 54b
+after r[jplen] = 120
+----------------
+j = 103  and jplen = 231  zeta# is = 1
+zeta = 6c1
+before r[j] = b25
+before r[jplen] = 75d
+after r[j] = b6f
+after r[jplen] = adb
+----------------
+j = 104  and jplen = 232  zeta# is = 1
+zeta = 6c1
+before r[j] = c1d
+before r[jplen] = b16
+after r[j] = bf1
+after r[jplen] = c49
+----------------
+j = 105  and jplen = 233  zeta# is = 1
+zeta = 6c1
+before r[j] = 5aa
+before r[jplen] = 3f
+after r[j] = 208
+after r[jplen] = 94c
+----------------
+j = 106  and jplen = 234  zeta# is = 1
+zeta = 6c1
+before r[j] = 20c
+before r[jplen] = 921
+after r[j] = c30
+after r[jplen] = 4e9
+----------------
+j = 107  and jplen = 235  zeta# is = 1
+zeta = 6c1
+before r[j] = 79e
+before r[jplen] = 609
+after r[j] = 44
+after r[jplen] = 1f7
+----------------
+j = 108  and jplen = 236  zeta# is = 1
+zeta = 6c1
+before r[j] = 487
+before r[jplen] = 53b
+after r[j] = a4b
+after r[jplen] = bc4
+----------------
+j = 109  and jplen = 237  zeta# is = 1
+zeta = 6c1
+before r[j] = 251
+before r[jplen] = 1fe
+after r[j] = c6
+after r[jplen] = 3dc
+----------------
+j = 110  and jplen = 238  zeta# is = 1
+zeta = 6c1
+before r[j] = 4c6
+before r[jplen] = bf
+after r[j] = 762
+after r[jplen] = 22a
+----------------
+j = 111  and jplen = 239  zeta# is = 1
+zeta = 6c1
+before r[j] = 819
+before r[jplen] = 2ca
+after r[j] = 5f0
+after r[jplen] = a42
+----------------
+j = 112  and jplen = 240  zeta# is = 1
+zeta = 6c1
+before r[j] = 99f
+before r[jplen] = 659
+after r[j] = 96c
+after r[jplen] = 9d2
+----------------
+j = 113  and jplen = 241  zeta# is = 1
+zeta = 6c1
+before r[j] = 9c0
+before r[jplen] = 14f
+after r[j] = 9a1
+after r[jplen] = 9df
+----------------
+j = 114  and jplen = 242  zeta# is = 1
+zeta = 6c1
+before r[j] = 276
+before r[jplen] = d6
+after r[j] = 45d
+after r[jplen] = 8f
+----------------
+j = 115  and jplen = 243  zeta# is = 1
+zeta = 6c1
+before r[j] = 8db
+before r[jplen] = 8fb
+after r[j] = 96c
+after r[jplen] = 84a
+----------------
+j = 116  and jplen = 244  zeta# is = 1
+zeta = 6c1
+before r[j] = c85
+before r[jplen] = 52a
+after r[j] = 780
+after r[jplen] = 489
+----------------
+j = 117  and jplen = 245  zeta# is = 1
+zeta = 6c1
+before r[j] = 44a
+before r[jplen] = b1e
+after r[j] = 622
+after r[jplen] = 272
+----------------
+j = 118  and jplen = 246  zeta# is = 1
+zeta = 6c1
+before r[j] = 50b
+before r[jplen] = 109
+after r[j] = 4a
+after r[jplen] = 9cc
+----------------
+j = 119  and jplen = 247  zeta# is = 1
+zeta = 6c1
+before r[j] = c71
+before r[jplen] = bf0
+after r[j] = 22d
+after r[jplen] = 9b4
+----------------
+j = 120  and jplen = 248  zeta# is = 1
+zeta = 6c1
+before r[j] = bb9
+before r[jplen] = 441
+after r[j] = 684
+after r[jplen] = 3ed
+----------------
+j = 121  and jplen = 249  zeta# is = 1
+zeta = 6c1
+before r[j] = 3b9
+before r[jplen] = 725
+after r[j] = 2e8
+after r[jplen] = 48a
+----------------
+j = 122  and jplen = 250  zeta# is = 1
+zeta = 6c1
+before r[j] = 54b
+before r[jplen] = 731
+after r[j] = 780
+after r[jplen] = 316
+----------------
+j = 123  and jplen = 251  zeta# is = 1
+zeta = 6c1
+before r[j] = 63d
+before r[jplen] = 1f8
+after r[j] = 32f
+after r[jplen] = 94b
+----------------
+j = 124  and jplen = 252  zeta# is = 1
+zeta = 6c1
+before r[j] = 4
+before r[jplen] = 31e
+after r[j] = 604
+after r[jplen] = 705
+----------------
+j = 125  and jplen = 253  zeta# is = 1
+zeta = 6c1
+before r[j] = 1ec
+before r[jplen] = a25
+after r[j] = c8d
+after r[jplen] = 44c
+----------------
+j = 126  and jplen = 254  zeta# is = 1
+zeta = 6c1
+before r[j] = 3ac
+before r[jplen] = 697
+after r[j] = 617
+after r[jplen] = 141
+----------------
+j = 127  and jplen = 255  zeta# is = 1
+zeta = 6c1
+before r[j] = 7f6
+before r[jplen] = 859
+after r[j] = 6b9
+after r[jplen] = 933
+============================================================================
+len = 64
+============================================================================
+**************************************
+start = 0
+**************************************
+----------------
+j = 0  and jplen = 64  zeta# is = 2
+zeta = a14
+before r[j] = 6a1
+before r[jplen] = 719
+after r[j] = 915
+after r[jplen] = 42d
+----------------
+j = 1  and jplen = 65  zeta# is = 2
+zeta = a14
+before r[j] = 26c
+before r[jplen] = 68b
+after r[j] = 436
+after r[jplen] = a2
+----------------
+j = 2  and jplen = 66  zeta# is = 2
+zeta = a14
+before r[j] = 721
+before r[jplen] = 834
+after r[j] = d5
+after r[jplen] = 6c
+----------------
+j = 3  and jplen = 67  zeta# is = 2
+zeta = a14
+before r[j] = 11c
+before r[jplen] = c1f
+after r[j] = c24
+after r[jplen] = 315
+----------------
+j = 4  and jplen = 68  zeta# is = 2
+zeta = a14
+before r[j] = 662
+before r[jplen] = c8c
+after r[j] = a99
+after r[jplen] = 22b
+----------------
+j = 5  and jplen = 69  zeta# is = 2
+zeta = a14
+before r[j] = 25c
+before r[jplen] = a19
+after r[j] = 77d
+after r[jplen] = a3c
+----------------
+j = 6  and jplen = 70  zeta# is = 2
+zeta = a14
+before r[j] = 86c
+before r[jplen] = c94
+after r[j] = 23c
+after r[jplen] = 19b
+----------------
+j = 7  and jplen = 71  zeta# is = 2
+zeta = a14
+before r[j] = acd
+before r[jplen] = 754
+after r[j] = 9af
+after r[jplen] = beb
+----------------
+j = 8  and jplen = 72  zeta# is = 2
+zeta = a14
+before r[j] = cee
+before r[jplen] = 7ae
+after r[j] = 892
+after r[jplen] = 449
+----------------
+j = 9  and jplen = 73  zeta# is = 2
+zeta = a14
+before r[j] = cf5
+before r[jplen] = 36b
+after r[j] = 1aa
+after r[jplen] = b3f
+----------------
+j = 10  and jplen = 74  zeta# is = 2
+zeta = a14
+before r[j] = 931
+before r[jplen] = a33
+after r[j] = 345
+after r[jplen] = 21c
+----------------
+j = 11  and jplen = 75  zeta# is = 2
+zeta = a14
+before r[j] = 21c
+before r[jplen] = 8eb
+after r[j] = 68f
+after r[jplen] = aaa
+----------------
+j = 12  and jplen = 76  zeta# is = 2
+zeta = a14
+before r[j] = 445
+before r[jplen] = 465
+after r[j] = 2c1
+after r[jplen] = 5c9
+----------------
+j = 13  and jplen = 77  zeta# is = 2
+zeta = a14
+before r[j] = a9c
+before r[jplen] = 6e
+after r[j] = de
+after r[jplen] = 759
+----------------
+j = 14  and jplen = 78  zeta# is = 2
+zeta = a14
+before r[j] = 915
+before r[jplen] = 1cf
+after r[j] = 6da
+after r[jplen] = b50
+----------------
+j = 15  and jplen = 79  zeta# is = 2
+zeta = a14
+before r[j] = a72
+before r[jplen] = 7c8
+after r[j] = 80a
+after r[jplen] = cda
+----------------
+j = 16  and jplen = 80  zeta# is = 2
+zeta = a14
+before r[j] = 4b0
+before r[jplen] = 7b4
+after r[j] = 8c8
+after r[jplen] = 98
+----------------
+j = 17  and jplen = 81  zeta# is = 2
+zeta = a14
+before r[j] = 822
+before r[jplen] = 763
+after r[j] = 224
+after r[jplen] = 11f
+----------------
+j = 18  and jplen = 82  zeta# is = 2
+zeta = a14
+before r[j] = 97c
+before r[jplen] = 1a7
+after r[j] = 740
+after r[jplen] = bb8
+----------------
+j = 19  and jplen = 83  zeta# is = 2
+zeta = a14
+before r[j] = cf2
+before r[jplen] = 88a
+after r[j] = 21b
+after r[jplen] = ac8
+----------------
+j = 20  and jplen = 84  zeta# is = 2
+zeta = a14
+before r[j] = c41
+before r[jplen] = 819
+after r[j] = 6ee
+after r[jplen] = 493
+----------------
+j = 21  and jplen = 85  zeta# is = 2
+zeta = a14
+before r[j] = 1f2
+before r[jplen] = ce
+after r[j] = a6b
+after r[jplen] = 67a
+----------------
+j = 22  and jplen = 86  zeta# is = 2
+zeta = a14
+before r[j] = 688
+before r[jplen] = aad
+after r[j] = 7c6
+after r[jplen] = 54a
+----------------
+j = 23  and jplen = 87  zeta# is = 2
+zeta = a14
+before r[j] = bb2
+before r[jplen] = 50f
+after r[j] = 6f2
+after r[jplen] = 371
+----------------
+j = 24  and jplen = 88  zeta# is = 2
+zeta = a14
+before r[j] = 525
+before r[jplen] = 262
+after r[j] = 1f4
+after r[jplen] = 856
+----------------
+j = 25  and jplen = 89  zeta# is = 2
+zeta = a14
+before r[j] = 26b
+before r[jplen] = c61
+after r[j] = 267
+after r[jplen] = 26f
+----------------
+j = 26  and jplen = 90  zeta# is = 2
+zeta = a14
+before r[j] = cc6
+before r[jplen] = c54
+after r[j] = bc8
+after r[jplen] = c3
+----------------
+j = 27  and jplen = 91  zeta# is = 2
+zeta = a14
+before r[j] = 4ab
+before r[jplen] = 5f
+after r[j] = cce
+after r[jplen] = 989
+----------------
+j = 28  and jplen = 92  zeta# is = 2
+zeta = a14
+before r[j] = 4c1
+before r[jplen] = 2f6
+after r[j] = aae
+after r[jplen] = bd5
+----------------
+j = 29  and jplen = 93  zeta# is = 2
+zeta = a14
+before r[j] = 10
+before r[jplen] = 4dd
+after r[j] = b90
+after r[jplen] = 191
+----------------
+j = 30  and jplen = 94  zeta# is = 2
+zeta = a14
+before r[j] = 9a0
+before r[jplen] = a47
+after r[j] = a35
+after r[jplen] = 90b
+----------------
+j = 31  and jplen = 95  zeta# is = 2
+zeta = a14
+before r[j] = b75
+before r[jplen] = a2c
+after r[j] = 2
+after r[jplen] = 9e7
+----------------
+j = 32  and jplen = 96  zeta# is = 2
+zeta = a14
+before r[j] = cc6
+before r[jplen] = 826
+after r[j] = 86d
+after r[jplen] = 41e
+----------------
+j = 33  and jplen = 97  zeta# is = 2
+zeta = a14
+before r[j] = cb1
+before r[jplen] = 71d
+after r[j] = 371
+after r[jplen] = 8f0
+----------------
+j = 34  and jplen = 98  zeta# is = 2
+zeta = a14
+before r[j] = be6
+before r[jplen] = 6bb
+after r[j] = 34a
+after r[jplen] = 781
+----------------
+j = 35  and jplen = 99  zeta# is = 2
+zeta = a14
+before r[j] = c28
+before r[jplen] = 43e
+after r[j] = 7b6
+after r[jplen] = 399
+----------------
+j = 36  and jplen = 100  zeta# is = 2
+zeta = a14
+before r[j] = 327
+before r[jplen] = 84c
+after r[j] = 4a9
+after r[jplen] = 1a5
+----------------
+j = 37  and jplen = 101  zeta# is = 2
+zeta = a14
+before r[j] = 72a
+before r[jplen] = 377
+after r[j] = cc7
+after r[jplen] = 18d
+----------------
+j = 38  and jplen = 102  zeta# is = 2
+zeta = a14
+before r[j] = 5ee
+before r[jplen] = 54b
+after r[j] = 7b0
+after r[jplen] = 42c
+----------------
+j = 39  and jplen = 103  zeta# is = 2
+zeta = a14
+before r[j] = cd4
+before r[jplen] = b6f
+after r[j] = 5a3
+after r[jplen] = 704
+----------------
+j = 40  and jplen = 104  zeta# is = 2
+zeta = a14
+before r[j] = 978
+before r[jplen] = bf1
+after r[j] = c0b
+after r[jplen] = 6e5
+----------------
+j = 41  and jplen = 105  zeta# is = 2
+zeta = a14
+before r[j] = bb7
+before r[jplen] = 208
+after r[j] = bc4
+after r[jplen] = baa
+----------------
+j = 42  and jplen = 106  zeta# is = 2
+zeta = a14
+before r[j] = 161
+before r[jplen] = c30
+after r[j] = 1af
+after r[jplen] = 113
+----------------
+j = 43  and jplen = 107  zeta# is = 2
+zeta = a14
+before r[j] = bfb
+before r[jplen] = 44
+after r[j] = 816
+after r[jplen] = 2df
+----------------
+j = 44  and jplen = 108  zeta# is = 2
+zeta = a14
+before r[j] = 977
+before r[jplen] = a4b
+after r[j] = b59
+after r[jplen] = 795
+----------------
+j = 45  and jplen = 109  zeta# is = 2
+zeta = a14
+before r[j] = 82c
+before r[jplen] = c6
+after r[j] = 10a
+after r[jplen] = 24d
+----------------
+j = 46  and jplen = 110  zeta# is = 2
+zeta = a14
+before r[j] = 7d
+before r[jplen] = 762
+after r[j] = a6d
+after r[jplen] = 38e
+----------------
+j = 47  and jplen = 111  zeta# is = 2
+zeta = a14
+before r[j] = 579
+before r[jplen] = 5f0
+after r[j] = 59f
+after r[jplen] = 553
+----------------
+j = 48  and jplen = 112  zeta# is = 2
+zeta = a14
+before r[j] = 110
+before r[jplen] = 96c
+after r[j] = 533
+after r[jplen] = 9ee
+----------------
+j = 49  and jplen = 113  zeta# is = 2
+zeta = a14
+before r[j] = 60c
+before r[jplen] = 9a1
+after r[j] = b2a
+after r[jplen] = ee
+----------------
+j = 50  and jplen = 114  zeta# is = 2
+zeta = a14
+before r[j] = 44d
+before r[jplen] = 45d
+after r[j] = 2f
+after r[jplen] = 86b
+----------------
+j = 51  and jplen = 115  zeta# is = 2
+zeta = a14
+before r[j] = 92b
+before r[jplen] = 96c
+after r[j] = 4d
+after r[jplen] = 508
+----------------
+j = 52  and jplen = 116  zeta# is = 2
+zeta = a14
+before r[j] = 39b
+before r[jplen] = 780
+after r[j] = 3cb
+after r[jplen] = 36b
+----------------
+j = 53  and jplen = 117  zeta# is = 2
+zeta = a14
+before r[j] = ac5
+before r[jplen] = 622
+after r[j] = 7ac
+after r[jplen] = dd
+----------------
+j = 54  and jplen = 118  zeta# is = 2
+zeta = a14
+before r[j] = 40c
+before r[jplen] = 4a
+after r[j] = 89b
+after r[jplen] = c7e
+----------------
+j = 55  and jplen = 119  zeta# is = 2
+zeta = a14
+before r[j] = 8a4
+before r[jplen] = 22d
+after r[j] = 478
+after r[jplen] = cd0
+----------------
+j = 56  and jplen = 120  zeta# is = 2
+zeta = a14
+before r[j] = 6db
+before r[jplen] = 684
+after r[j] = 31e
+after r[jplen] = a98
+----------------
+j = 57  and jplen = 121  zeta# is = 2
+zeta = a14
+before r[j] = 2be
+before r[jplen] = 2e8
+after r[j] = a9e
+after r[jplen] = 7df
+----------------
+j = 58  and jplen = 122  zeta# is = 2
+zeta = a14
+before r[j] = 814
+before r[jplen] = 780
+after r[j] = 844
+after r[jplen] = 7e4
+----------------
+j = 59  and jplen = 123  zeta# is = 2
+zeta = a14
+before r[j] = c70
+before r[jplen] = 32f
+after r[j] = 7a4
+after r[jplen] = 43b
+----------------
+j = 60  and jplen = 124  zeta# is = 2
+zeta = a14
+before r[j] = 850
+before r[jplen] = 604
+after r[j] = 1f6
+after r[jplen] = 1a9
+----------------
+j = 61  and jplen = 125  zeta# is = 2
+zeta = a14
+before r[j] = 8a1
+before r[jplen] = c8d
+after r[j] = 9eb
+after r[jplen] = 757
+----------------
+j = 62  and jplen = 126  zeta# is = 2
+zeta = a14
+before r[j] = bf4
+before r[jplen] = 617
+after r[j] = 207
+after r[jplen] = 8e0
+----------------
+j = 63  and jplen = 127  zeta# is = 2
+zeta = a14
+before r[j] = b54
+before r[jplen] = 6b9
+after r[j] = 892
+after r[jplen] = 115
+**************************************
+start = 128
+**************************************
+----------------
+j = 128  and jplen = 192  zeta# is = 3
+zeta = cd9
+before r[j] = 4d8
+before r[jplen] = 38b
+after r[j] = 62b
+after r[jplen] = 385
+----------------
+j = 129  and jplen = 193  zeta# is = 3
+zeta = cd9
+before r[j] = 5e6
+before r[jplen] = 38d
+after r[j] = 6e9
+after r[jplen] = 4e3
+----------------
+j = 130  and jplen = 194  zeta# is = 3
+zeta = cd9
+before r[j] = 8
+before r[jplen] = 5fd
+after r[j] = 793
+after r[jplen] = 57e
+----------------
+j = 131  and jplen = 195  zeta# is = 3
+zeta = cd9
+before r[j] = a5e
+before r[jplen] = 187
+after r[j] = 14a
+after r[jplen] = 671
+----------------
+j = 132  and jplen = 196  zeta# is = 3
+zeta = cd9
+before r[j] = 7dd
+before r[jplen] = 1b5
+after r[j] = 49a
+after r[jplen] = b20
+----------------
+j = 133  and jplen = 197  zeta# is = 3
+zeta = cd9
+before r[j] = a42
+before r[jplen] = 72a
+after r[j] = 9c8
+after r[jplen] = abc
+----------------
+j = 134  and jplen = 198  zeta# is = 3
+zeta = cd9
+before r[j] = 4ae
+before r[jplen] = 7c8
+after r[j] = 586
+after r[jplen] = 3d6
+----------------
+j = 135  and jplen = 199  zeta# is = 3
+zeta = cd9
+before r[j] = a60
+before r[jplen] = 262
+after r[j] = 617
+after r[jplen] = 1a8
+----------------
+j = 136  and jplen = 200  zeta# is = 3
+zeta = cd9
+before r[j] = 6a
+before r[jplen] = c23
+after r[j] = 918
+after r[jplen] = 4bd
+----------------
+j = 137  and jplen = 201  zeta# is = 3
+zeta = cd9
+before r[j] = a55
+before r[jplen] = 722
+after r[j] = b1b
+after r[jplen] = 98f
+----------------
+j = 138  and jplen = 202  zeta# is = 3
+zeta = cd9
+before r[j] = 598
+before r[jplen] = 8d0
+after r[j] = 433
+after r[jplen] = 6fd
+----------------
+j = 139  and jplen = 203  zeta# is = 3
+zeta = cd9
+before r[j] = 7bd
+before r[jplen] = b0
+after r[j] = 63f
+after r[jplen] = 93b
+----------------
+j = 140  and jplen = 204  zeta# is = 3
+zeta = cd9
+before r[j] = 246
+before r[jplen] = 287
+after r[j] = 536
+after r[jplen] = c57
+----------------
+j = 141  and jplen = 205  zeta# is = 3
+zeta = cd9
+before r[j] = 4b
+before r[jplen] = b3c
+after r[j] = 60e
+after r[jplen] = 789
+----------------
+j = 142  and jplen = 206  zeta# is = 3
+zeta = cd9
+before r[j] = cde
+before r[jplen] = 311
+after r[j] = 73f
+after r[jplen] = 57c
+----------------
+j = 143  and jplen = 207  zeta# is = 3
+zeta = cd9
+before r[j] = 2dd
+before r[jplen] = 5b4
+after r[j] = 8cf
+after r[jplen] = 9ec
+----------------
+j = 144  and jplen = 208  zeta# is = 3
+zeta = cd9
+before r[j] = c91
+before r[jplen] = ee
+after r[j] = 163
+after r[jplen] = abe
+----------------
+j = 145  and jplen = 209  zeta# is = 3
+zeta = cd9
+before r[j] = 87
+before r[jplen] = a4a
+after r[j] = 517
+after r[jplen] = 8f8
+----------------
+j = 146  and jplen = 210  zeta# is = 3
+zeta = cd9
+before r[j] = 8ce
+before r[jplen] = b29
+after r[j] = 488
+after r[jplen] = 13
+----------------
+j = 147  and jplen = 211  zeta# is = 3
+zeta = cd9
+before r[j] = 9a1
+before r[jplen] = a58
+after r[j] = c01
+after r[jplen] = 741
+----------------
+j = 148  and jplen = 212  zeta# is = 3
+zeta = cd9
+before r[j] = 7c3
+before r[jplen] = 78f
+after r[j] = 482
+after r[jplen] = b04
+----------------
+j = 149  and jplen = 213  zeta# is = 3
+zeta = cd9
+before r[j] = 385
+before r[jplen] = b9
+after r[j] = 9f
+after r[jplen] = 66b
+----------------
+j = 150  and jplen = 214  zeta# is = 3
+zeta = cd9
+before r[j] = b32
+before r[jplen] = 49f
+after r[j] = 868
+after r[jplen] = fb
+----------------
+j = 151  and jplen = 215  zeta# is = 3
+zeta = cd9
+before r[j] = c89
+before r[jplen] = 78d
+after r[j] = 998
+after r[jplen] = 279
+----------------
+j = 152  and jplen = 216  zeta# is = 3
+zeta = cd9
+before r[j] = 2b
+before r[jplen] = 5db
+after r[j] = 5
+after r[jplen] = 51
+----------------
+j = 153  and jplen = 217  zeta# is = 3
+zeta = cd9
+before r[j] = 11c
+before r[jplen] = 308
+after r[j] = 9e6
+after r[jplen] = 553
+----------------
+j = 154  and jplen = 218  zeta# is = 3
+zeta = cd9
+before r[j] = 650
+before r[jplen] = a33
+after r[j] = 177
+after r[jplen] = b29
+----------------
+j = 155  and jplen = 219  zeta# is = 3
+zeta = cd9
+before r[j] = 523
+before r[jplen] = c94
+after r[j] = 92a
+after r[jplen] = 11c
+----------------
+j = 156  and jplen = 220  zeta# is = 3
+zeta = cd9
+before r[j] = 5b1
+before r[jplen] = 216
+after r[j] = 47
+after r[jplen] = b1b
+----------------
+j = 157  and jplen = 221  zeta# is = 3
+zeta = cd9
+before r[j] = b5
+before r[jplen] = c4d
+after r[j] = 2d3
+after r[jplen] = b98
+----------------
+j = 158  and jplen = 222  zeta# is = 3
+zeta = cd9
+before r[j] = 3f2
+before r[jplen] = 9e8
+after r[j] = ad1
+after r[jplen] = a14
+----------------
+j = 159  and jplen = 223  zeta# is = 3
+zeta = cd9
+before r[j] = 927
+before r[jplen] = 221
+after r[j] = 205
+after r[jplen] = 348
+----------------
+j = 160  and jplen = 224  zeta# is = 3
+zeta = cd9
+before r[j] = 552
+before r[jplen] = 53e
+after r[j] = 3b2
+after r[jplen] = 6f2
+----------------
+j = 161  and jplen = 225  zeta# is = 3
+zeta = cd9
+before r[j] = 91b
+before r[jplen] = 5d5
+after r[j] = 9e5
+after r[jplen] = 851
+----------------
+j = 162  and jplen = 226  zeta# is = 3
+zeta = cd9
+before r[j] = 22f
+before r[jplen] = 433
+after r[j] = 344
+after r[jplen] = 11a
+----------------
+j = 163  and jplen = 227  zeta# is = 3
+zeta = cd9
+before r[j] = 5a
+before r[jplen] = 82b
+after r[j] = bbc
+after r[jplen] = 1f9
+----------------
+j = 164  and jplen = 228  zeta# is = 3
+zeta = cd9
+before r[j] = 19b
+before r[jplen] = 832
+after r[j] = be5
+after r[jplen] = 452
+----------------
+j = 165  and jplen = 229  zeta# is = 3
+zeta = cd9
+before r[j] = 1f9
+before r[jplen] = adb
+after r[j] = 9e3
+after r[jplen] = 710
+----------------
+j = 166  and jplen = 230  zeta# is = 3
+zeta = cd9
+before r[j] = 53f
+before r[jplen] = 120
+after r[j] = c43
+after r[jplen] = b3c
+----------------
+j = 167  and jplen = 231  zeta# is = 3
+zeta = cd9
+before r[j] = 780
+before r[jplen] = adb
+after r[j] = 269
+after r[jplen] = c97
+----------------
+j = 168  and jplen = 232  zeta# is = 3
+zeta = cd9
+before r[j] = cec
+before r[jplen] = c49
+after r[j] = 2a9
+after r[jplen] = a2e
+----------------
+j = 169  and jplen = 233  zeta# is = 3
+zeta = cd9
+before r[j] = 3fc
+before r[jplen] = 94c
+after r[j] = 939
+after r[jplen] = bc0
+----------------
+j = 170  and jplen = 234  zeta# is = 3
+zeta = cd9
+before r[j] = 324
+before r[jplen] = 4e9
+after r[j] = 1cb
+after r[jplen] = 47d
+----------------
+j = 171  and jplen = 235  zeta# is = 3
+zeta = cd9
+before r[j] = 65e
+before r[jplen] = 1f7
+after r[j] = 5cc
+after r[jplen] = 6f0
+----------------
+j = 172  and jplen = 236  zeta# is = 3
+zeta = cd9
+before r[j] = 40a
+before r[jplen] = bc4
+after r[j] = 18e
+after r[jplen] = 686
+----------------
+j = 173  and jplen = 237  zeta# is = 3
+zeta = cd9
+before r[j] = 90b
+before r[jplen] = 3dc
+after r[j] = ab7
+after r[jplen] = 75f
+----------------
+j = 174  and jplen = 238  zeta# is = 3
+zeta = cd9
+before r[j] = 238
+before r[jplen] = 22a
+after r[j] = 6af
+after r[jplen] = ac2
+----------------
+j = 175  and jplen = 239  zeta# is = 3
+zeta = cd9
+before r[j] = ce1
+before r[jplen] = a42
+after r[j] = 5b0
+after r[jplen] = 711
+----------------
+j = 176  and jplen = 240  zeta# is = 3
+zeta = cd9
+before r[j] = 1c
+before r[jplen] = 9d2
+after r[j] = a6b
+after r[jplen] = 2ce
+----------------
+j = 177  and jplen = 241  zeta# is = 3
+zeta = cd9
+before r[j] = b56
+before r[jplen] = 9df
+after r[j] = 69c
+after r[jplen] = 30f
+----------------
+j = 178  and jplen = 242  zeta# is = 3
+zeta = cd9
+before r[j] = 65b
+before r[jplen] = 8f
+after r[j] = a05
+after r[jplen] = 2b1
+----------------
+j = 179  and jplen = 243  zeta# is = 3
+zeta = cd9
+before r[j] = ad0
+before r[jplen] = 84a
+after r[j] = 459
+after r[jplen] = 446
+----------------
+j = 180  and jplen = 244  zeta# is = 3
+zeta = cd9
+before r[j] = 7d5
+before r[jplen] = 489
+after r[j] = 87b
+after r[jplen] = 72f
+----------------
+j = 181  and jplen = 245  zeta# is = 3
+zeta = cd9
+before r[j] = a7
+before r[jplen] = 272
+after r[j] = 6df
+after r[jplen] = 770
+----------------
+j = 182  and jplen = 246  zeta# is = 3
+zeta = cd9
+before r[j] = 70a
+before r[jplen] = 9cc
+after r[j] = 548
+after r[jplen] = 8cc
+----------------
+j = 183  and jplen = 247  zeta# is = 3
+zeta = cd9
+before r[j] = 632
+before r[jplen] = 9b4
+after r[j] = 830
+after r[jplen] = 434
+----------------
+j = 184  and jplen = 248  zeta# is = 3
+zeta = cd9
+before r[j] = 98b
+before r[jplen] = 3ed
+after r[j] = 88f
+after r[jplen] = a87
+----------------
+j = 185  and jplen = 249  zeta# is = 3
+zeta = cd9
+before r[j] = 72
+before r[jplen] = 48a
+after r[j] = f0
+after r[jplen] = cf5
+----------------
+j = 186  and jplen = 250  zeta# is = 3
+zeta = cd9
+before r[j] = 292
+before r[jplen] = 316
+after r[j] = 92c
+after r[jplen] = 8f9
+----------------
+j = 187  and jplen = 251  zeta# is = 3
+zeta = cd9
+before r[j] = ce2
+before r[jplen] = 94b
+after r[j] = 546
+after r[jplen] = 77d
+----------------
+j = 188  and jplen = 252  zeta# is = 3
+zeta = cd9
+before r[j] = 78e
+before r[jplen] = 705
+after r[j] = cdc
+after r[jplen] = 240
+----------------
+j = 189  and jplen = 253  zeta# is = 3
+zeta = cd9
+before r[j] = 501
+before r[jplen] = 44c
+after r[j] = 22e
+after r[jplen] = 7d4
+----------------
+j = 190  and jplen = 254  zeta# is = 3
+zeta = cd9
+before r[j] = b2a
+before r[jplen] = 141
+after r[j] = 5
+after r[jplen] = 94e
+----------------
+j = 191  and jplen = 255  zeta# is = 3
+zeta = cd9
+before r[j] = 795
+before r[jplen] = 933
+after r[j] = 3b9
+after r[jplen] = b71
+============================================================================
+len = 32
+============================================================================
+**************************************
+start = 0
+**************************************
+----------------
+j = 0  and jplen = 32  zeta# is = 4
+zeta = a52
+before r[j] = 915
+before r[jplen] = 86d
+after r[j] = 74f
+after r[jplen] = adb
+----------------
+j = 1  and jplen = 33  zeta# is = 4
+zeta = a52
+before r[j] = 436
+before r[jplen] = 371
+after r[j] = 6ad
+after r[jplen] = 1bf
+----------------
+j = 2  and jplen = 34  zeta# is = 4
+zeta = a52
+before r[j] = d5
+before r[jplen] = 34a
+after r[j] = 3ed
+after r[jplen] = abe
+----------------
+j = 3  and jplen = 35  zeta# is = 4
+zeta = a52
+before r[j] = c24
+before r[jplen] = 7b6
+after r[j] = 751
+after r[jplen] = 3f6
+----------------
+j = 4  and jplen = 36  zeta# is = 4
+zeta = a52
+before r[j] = a99
+before r[jplen] = 4a9
+after r[j] = 808
+after r[jplen] = 29
+----------------
+j = 5  and jplen = 37  zeta# is = 4
+zeta = a52
+before r[j] = 77d
+before r[jplen] = cc7
+after r[j] = 717
+after r[jplen] = 7e3
+----------------
+j = 6  and jplen = 38  zeta# is = 4
+zeta = a52
+before r[j] = 23c
+before r[jplen] = 7b0
+after r[j] = 82
+after r[jplen] = 3f6
+----------------
+j = 7  and jplen = 39  zeta# is = 4
+zeta = a52
+before r[j] = 9af
+before r[jplen] = 5a3
+after r[j] = c6c
+after r[jplen] = 6f2
+----------------
+j = 8  and jplen = 40  zeta# is = 4
+zeta = a52
+before r[j] = 892
+before r[jplen] = c0b
+after r[j] = 589
+after r[jplen] = b9b
+----------------
+j = 9  and jplen = 41  zeta# is = 4
+zeta = a52
+before r[j] = 1aa
+before r[jplen] = bc4
+after r[j] = 71c
+after r[jplen] = 939
+----------------
+j = 10  and jplen = 42  zeta# is = 4
+zeta = a52
+before r[j] = 345
+before r[jplen] = 1af
+after r[j] = 3fd
+after r[jplen] = 28d
+----------------
+j = 11  and jplen = 43  zeta# is = 4
+zeta = a52
+before r[j] = 68f
+before r[jplen] = 816
+after r[j] = 430
+after r[jplen] = 8ee
+----------------
+j = 12  and jplen = 44  zeta# is = 4
+zeta = a52
+before r[j] = 2c1
+before r[jplen] = b59
+after r[j] = 942
+after r[jplen] = 941
+----------------
+j = 13  and jplen = 45  zeta# is = 4
+zeta = a52
+before r[j] = de
+before r[jplen] = 10a
+after r[j] = 23f
+after r[jplen] = c7e
+----------------
+j = 14  and jplen = 46  zeta# is = 4
+zeta = a52
+before r[j] = 6da
+before r[jplen] = a6d
+after r[j] = 97e
+after r[jplen] = 436
+----------------
+j = 15  and jplen = 47  zeta# is = 4
+zeta = a52
+before r[j] = 80a
+before r[jplen] = 59f
+after r[j] = 882
+after r[jplen] = 792
+----------------
+j = 16  and jplen = 48  zeta# is = 4
+zeta = a52
+before r[j] = 8c8
+before r[jplen] = 533
+after r[j] = cfe
+after r[jplen] = 492
+----------------
+j = 17  and jplen = 49  zeta# is = 4
+zeta = a52
+before r[j] = 224
+before r[jplen] = b2a
+after r[j] = 4bc
+after r[jplen] = c8d
+----------------
+j = 18  and jplen = 50  zeta# is = 4
+zeta = a52
+before r[j] = 740
+before r[jplen] = 2f
+after r[j] = b29
+after r[jplen] = 357
+----------------
+j = 19  and jplen = 51  zeta# is = 4
+zeta = a52
+before r[j] = 21b
+before r[jplen] = 4d
+after r[j] = 388
+after r[jplen] = ae
+----------------
+j = 20  and jplen = 52  zeta# is = 4
+zeta = a52
+before r[j] = 6ee
+before r[jplen] = 3cb
+after r[j] = 1f1
+after r[jplen] = beb
+----------------
+j = 21  and jplen = 53  zeta# is = 4
+zeta = a52
+before r[j] = a6b
+before r[jplen] = 7ac
+after r[j] = 66c
+after r[jplen] = 169
+----------------
+j = 22  and jplen = 54  zeta# is = 4
+zeta = a52
+before r[j] = 7c6
+before r[jplen] = 89b
+after r[j] = c98
+after r[jplen] = 2f4
+----------------
+j = 23  and jplen = 55  zeta# is = 4
+zeta = a52
+before r[j] = 6f2
+before r[jplen] = 478
+after r[j] = 5d6
+after r[jplen] = 80e
+----------------
+j = 24  and jplen = 56  zeta# is = 4
+zeta = a52
+before r[j] = 1f4
+before r[jplen] = 31e
+after r[j] = 617
+after r[jplen] = ad2
+----------------
+j = 25  and jplen = 57  zeta# is = 4
+zeta = a52
+before r[j] = 267
+before r[jplen] = a9e
+after r[j] = 396
+after r[jplen] = 138
+----------------
+j = 26  and jplen = 58  zeta# is = 4
+zeta = a52
+before r[j] = bc8
+before r[jplen] = 844
+after r[j] = 300
+after r[jplen] = 78f
+----------------
+j = 27  and jplen = 59  zeta# is = 4
+zeta = a52
+before r[j] = cce
+before r[jplen] = 7a4
+after r[j] = 445
+after r[jplen] = 856
+----------------
+j = 28  and jplen = 60  zeta# is = 4
+zeta = a52
+before r[j] = aae
+before r[jplen] = 1f6
+after r[j] = 2eb
+after r[jplen] = 570
+----------------
+j = 29  and jplen = 61  zeta# is = 4
+zeta = a52
+before r[j] = b90
+before r[jplen] = 9eb
+after r[j] = bf7
+after r[jplen] = b29
+----------------
+j = 30  and jplen = 62  zeta# is = 4
+zeta = a52
+before r[j] = a35
+before r[jplen] = 207
+after r[j] = 8d7
+after r[jplen] = b93
+----------------
+j = 31  and jplen = 63  zeta# is = 4
+zeta = a52
+before r[j] = 2
+before r[jplen] = 892
+after r[j] = 2f9
+after r[jplen] = a0c
+**************************************
+start = 64
+**************************************
+----------------
+j = 64  and jplen = 96  zeta# is = 5
+zeta = 276
+before r[j] = 42d
+before r[jplen] = 41e
+after r[j] = a3a
+after r[jplen] = b21
+----------------
+j = 65  and jplen = 97  zeta# is = 5
+zeta = 276
+before r[j] = a2
+before r[jplen] = 8f0
+after r[j] = 91
+after r[jplen] = b3
+----------------
+j = 66  and jplen = 98  zeta# is = 5
+zeta = 276
+before r[j] = 6c
+before r[jplen] = 781
+after r[j] = 777
+after r[jplen] = 662
+----------------
+j = 67  and jplen = 99  zeta# is = 5
+zeta = 276
+before r[j] = 315
+before r[jplen] = 399
+after r[j] = 6ed
+after r[jplen] = c3e
+----------------
+j = 68  and jplen = 100  zeta# is = 5
+zeta = 276
+before r[j] = 22b
+before r[jplen] = 1a5
+after r[j] = aea
+after r[jplen] = 66d
+----------------
+j = 69  and jplen = 101  zeta# is = 5
+zeta = 276
+before r[j] = a3c
+before r[jplen] = 18d
+after r[j] = bef
+after r[jplen] = 889
+----------------
+j = 70  and jplen = 102  zeta# is = 5
+zeta = 276
+before r[j] = 19b
+before r[jplen] = 42c
+after r[j] = 319
+after r[jplen] = 1d
+----------------
+j = 71  and jplen = 103  zeta# is = 5
+zeta = 276
+before r[j] = beb
+before r[jplen] = 704
+after r[j] = a6f
+after r[jplen] = 66
+----------------
+j = 72  and jplen = 104  zeta# is = 5
+zeta = 276
+before r[j] = 449
+before r[jplen] = 6e5
+after r[j] = 489
+after r[jplen] = 409
+----------------
+j = 73  and jplen = 105  zeta# is = 5
+zeta = 276
+before r[j] = b3f
+before r[jplen] = baa
+after r[j] = c66
+after r[jplen] = a18
+----------------
+j = 74  and jplen = 106  zeta# is = 5
+zeta = 276
+before r[j] = 21c
+before r[jplen] = 113
+after r[j] = 2aa
+after r[jplen] = 18e
+----------------
+j = 75  and jplen = 107  zeta# is = 5
+zeta = 276
+before r[j] = aaa
+before r[jplen] = 2df
+after r[j] = be9
+after r[jplen] = 96b
+----------------
+j = 76  and jplen = 108  zeta# is = 5
+zeta = 276
+before r[j] = 5c9
+before r[jplen] = 795
+after r[j] = a08
+after r[jplen] = 18a
+----------------
+j = 77  and jplen = 109  zeta# is = 5
+zeta = 276
+before r[j] = 759
+before r[jplen] = 24d
+after r[j] = 67
+after r[jplen] = 14a
+----------------
+j = 78  and jplen = 110  zeta# is = 5
+zeta = 276
+before r[j] = b50
+before r[jplen] = 38e
+after r[j] = 117
+after r[jplen] = 888
+----------------
+j = 79  and jplen = 111  zeta# is = 5
+zeta = 276
+before r[j] = cda
+before r[jplen] = 553
+after r[j] = c1a
+after r[jplen] = 99
+----------------
+j = 80  and jplen = 112  zeta# is = 5
+zeta = 276
+before r[j] = 98
+before r[jplen] = 9ee
+after r[j] = 16b
+after r[jplen] = cc6
+----------------
+j = 81  and jplen = 113  zeta# is = 5
+zeta = 276
+before r[j] = 11f
+before r[jplen] = ee
+after r[j] = 1a6
+after r[jplen] = 98
+----------------
+j = 82  and jplen = 114  zeta# is = 5
+zeta = 276
+before r[j] = bb8
+before r[jplen] = 86b
+after r[j] = 972
+after r[jplen] = fd
+----------------
+j = 83  and jplen = 115  zeta# is = 5
+zeta = 276
+before r[j] = ac8
+before r[jplen] = 508
+after r[j] = 784
+after r[jplen] = 10b
+----------------
+j = 84  and jplen = 116  zeta# is = 5
+zeta = 276
+before r[j] = 493
+before r[jplen] = 36b
+after r[j] = c40
+after r[jplen] = 9e7
+----------------
+j = 85  and jplen = 117  zeta# is = 5
+zeta = 276
+before r[j] = 67a
+before r[jplen] = dd
+after r[j] = 42e
+after r[jplen] = 8c6
+----------------
+j = 86  and jplen = 118  zeta# is = 5
+zeta = 276
+before r[j] = 54a
+before r[jplen] = c7e
+after r[j] = 801
+after r[jplen] = 293
+----------------
+j = 87  and jplen = 119  zeta# is = 5
+zeta = 276
+before r[j] = 371
+before r[jplen] = cd0
+after r[j] = ce5
+after r[jplen] = 6fe
+----------------
+j = 88  and jplen = 120  zeta# is = 5
+zeta = 276
+before r[j] = 856
+before r[jplen] = a98
+after r[j] = b65
+after r[jplen] = 547
+----------------
+j = 89  and jplen = 121  zeta# is = 5
+zeta = 276
+before r[j] = 26f
+before r[jplen] = 7df
+after r[j] = 6bc
+after r[jplen] = b23
+----------------
+j = 90  and jplen = 122  zeta# is = 5
+zeta = 276
+before r[j] = c3
+before r[jplen] = 7e4
+after r[j] = 45d
+after r[jplen] = a2a
+----------------
+j = 91  and jplen = 123  zeta# is = 5
+zeta = 276
+before r[j] = 989
+before r[jplen] = 43b
+after r[j] = 8ee
+after r[jplen] = a24
+----------------
+j = 92  and jplen = 124  zeta# is = 5
+zeta = 276
+before r[j] = bd5
+before r[jplen] = 1a9
+after r[j] = 46a
+after r[jplen] = 63f
+----------------
+j = 93  and jplen = 125  zeta# is = 5
+zeta = 276
+before r[j] = 191
+before r[jplen] = 757
+after r[j] = 948
+after r[jplen] = 6db
+----------------
+j = 94  and jplen = 126  zeta# is = 5
+zeta = 276
+before r[j] = 90b
+before r[jplen] = 8e0
+after r[j] = 89d
+after r[jplen] = 979
+----------------
+j = 95  and jplen = 127  zeta# is = 5
+zeta = 276
+before r[j] = 9e7
+before r[jplen] = 115
+after r[j] = 260
+after r[jplen] = 46d
+**************************************
+start = 128
+**************************************
+----------------
+j = 128  and jplen = 160  zeta# is = 6
+zeta = 769
+before r[j] = 62b
+before r[jplen] = 3b2
+after r[j] = 712
+after r[jplen] = 544
+----------------
+j = 129  and jplen = 161  zeta# is = 6
+zeta = 769
+before r[j] = 6e9
+before r[jplen] = 9e5
+after r[j] = c33
+after r[jplen] = 19f
+----------------
+j = 130  and jplen = 162  zeta# is = 6
+zeta = 769
+before r[j] = 793
+before r[jplen] = 344
+after r[j] = c9b
+after r[jplen] = 28b
+----------------
+j = 131  and jplen = 163  zeta# is = 6
+zeta = 769
+before r[j] = 14a
+before r[jplen] = bbc
+after r[j] = bb7
+after r[jplen] = 3de
+----------------
+j = 132  and jplen = 164  zeta# is = 6
+zeta = 769
+before r[j] = 49a
+before r[jplen] = be5
+after r[j] = 6c0
+after r[jplen] = 274
+----------------
+j = 133  and jplen = 165  zeta# is = 6
+zeta = 769
+before r[j] = 9c8
+before r[jplen] = 9e3
+after r[j] = 40
+after r[jplen] = 64f
+----------------
+j = 134  and jplen = 166  zeta# is = 6
+zeta = 769
+before r[j] = 586
+before r[jplen] = c43
+after r[j] = 204
+after r[jplen] = 908
+----------------
+j = 135  and jplen = 167  zeta# is = 6
+zeta = 769
+before r[j] = 617
+before r[jplen] = 269
+after r[j] = c8
+after r[jplen] = b66
+----------------
+j = 136  and jplen = 168  zeta# is = 6
+zeta = 769
+before r[j] = 918
+before r[jplen] = 2a9
+after r[j] = 9e5
+after r[jplen] = 84b
+----------------
+j = 137  and jplen = 169  zeta# is = 6
+zeta = 769
+before r[j] = b1b
+before r[jplen] = 939
+after r[j] = 33a
+after r[jplen] = 5fb
+----------------
+j = 138  and jplen = 170  zeta# is = 6
+zeta = 769
+before r[j] = 433
+before r[jplen] = 1cb
+after r[j] = b71
+after r[jplen] = 9f6
+----------------
+j = 139  and jplen = 171  zeta# is = 6
+zeta = 769
+before r[j] = 63f
+before r[jplen] = 5cc
+after r[j] = 19d
+after r[jplen] = ae1
+----------------
+j = 140  and jplen = 172  zeta# is = 6
+zeta = 769
+before r[j] = 536
+before r[jplen] = 18e
+after r[j] = 291
+after r[jplen] = 7db
+----------------
+j = 141  and jplen = 173  zeta# is = 6
+zeta = 769
+before r[j] = 60e
+before r[jplen] = ab7
+after r[j] = 702
+after r[jplen] = 51a
+----------------
+j = 142  and jplen = 174  zeta# is = 6
+zeta = 769
+before r[j] = 73f
+before r[jplen] = 6af
+after r[j] = 737
+after r[jplen] = 747
+----------------
+j = 143  and jplen = 175  zeta# is = 6
+zeta = 769
+before r[j] = 8cf
+before r[jplen] = 5b0
+after r[j] = 4c1
+after r[jplen] = cdd
+----------------
+j = 144  and jplen = 176  zeta# is = 6
+zeta = 769
+before r[j] = 163
+before r[jplen] = a6b
+after r[j] = b57
+after r[jplen] = 470
+----------------
+j = 145  and jplen = 177  zeta# is = 6
+zeta = 769
+before r[j] = 517
+before r[jplen] = 69c
+after r[j] = 74f
+after r[jplen] = 2df
+----------------
+j = 146  and jplen = 178  zeta# is = 6
+zeta = 769
+before r[j] = 488
+before r[jplen] = a05
+after r[j] = ce0
+after r[jplen] = 931
+----------------
+j = 147  and jplen = 179  zeta# is = 6
+zeta = 769
+before r[j] = c01
+before r[jplen] = 459
+after r[j] = 207
+after r[jplen] = 8fa
+----------------
+j = 148  and jplen = 180  zeta# is = 6
+zeta = 769
+before r[j] = 482
+before r[jplen] = 87b
+after r[j] = 620
+after r[jplen] = 2e4
+----------------
+j = 149  and jplen = 181  zeta# is = 6
+zeta = 769
+before r[j] = 9f
+before r[jplen] = 6df
+after r[j] = 52c
+after r[jplen] = 913
+----------------
+j = 150  and jplen = 182  zeta# is = 6
+zeta = 769
+before r[j] = 868
+before r[jplen] = 548
+after r[j] = ed
+after r[jplen] = 2e2
+----------------
+j = 151  and jplen = 183  zeta# is = 6
+zeta = 769
+before r[j] = 998
+before r[jplen] = 830
+after r[j] = 19d
+after r[jplen] = 492
+----------------
+j = 152  and jplen = 184  zeta# is = 6
+zeta = 769
+before r[j] = 5
+before r[jplen] = 88f
+after r[j] = 6cc
+after r[jplen] = 63f
+----------------
+j = 153  and jplen = 185  zeta# is = 6
+zeta = 769
+before r[j] = 9e6
+before r[jplen] = f0
+after r[j] = 6cd
+after r[jplen] = cff
+----------------
+j = 154  and jplen = 186  zeta# is = 6
+zeta = 769
+before r[j] = 177
+before r[jplen] = 92c
+after r[j] = 149
+after r[jplen] = 1a5
+----------------
+j = 155  and jplen = 187  zeta# is = 6
+zeta = 769
+before r[j] = 92a
+before r[jplen] = 546
+after r[j] = cdf
+after r[jplen] = 575
+----------------
+j = 156  and jplen = 188  zeta# is = 6
+zeta = 769
+before r[j] = 47
+before r[jplen] = cdc
+after r[j] = c30
+after r[jplen] = 15f
+----------------
+j = 157  and jplen = 189  zeta# is = 6
+zeta = 769
+before r[j] = 2d3
+before r[jplen] = 22e
+after r[j] = 273
+after r[jplen] = 333
+----------------
+j = 158  and jplen = 190  zeta# is = 6
+zeta = 769
+before r[j] = ad1
+before r[jplen] = 5
+after r[j] = 8db
+after r[jplen] = cc7
+----------------
+j = 159  and jplen = 191  zeta# is = 6
+zeta = 769
+before r[j] = 205
+before r[jplen] = 3b9
+after r[j] = 2c7
+after r[jplen] = 143
+**************************************
+start = 192
+**************************************
+----------------
+j = 192  and jplen = 224  zeta# is = 7
+zeta = 350
+before r[j] = 385
+before r[jplen] = 6f2
+after r[j] = 260
+after r[jplen] = 4aa
+----------------
+j = 193  and jplen = 225  zeta# is = 7
+zeta = 350
+before r[j] = 4e3
+before r[jplen] = 851
+after r[j] = 915
+after r[jplen] = b1
+----------------
+j = 194  and jplen = 226  zeta# is = 7
+zeta = 350
+before r[j] = 57e
+before r[jplen] = 11a
+after r[j] = 356
+after r[jplen] = 7a6
+----------------
+j = 195  and jplen = 227  zeta# is = 7
+zeta = 350
+before r[j] = 671
+before r[jplen] = 1f9
+after r[j] = 1c0
+after r[jplen] = b22
+----------------
+j = 196  and jplen = 228  zeta# is = 7
+zeta = 350
+before r[j] = b20
+before r[jplen] = 452
+after r[j] = 7a6
+after r[jplen] = 199
+----------------
+j = 197  and jplen = 229  zeta# is = 7
+zeta = 350
+before r[j] = abc
+before r[jplen] = 710
+after r[j] = 4ef
+after r[jplen] = 388
+----------------
+j = 198  and jplen = 230  zeta# is = 7
+zeta = 350
+before r[j] = 3d6
+before r[jplen] = b3c
+after r[j] = bba
+after r[jplen] = 8f3
+----------------
+j = 199  and jplen = 231  zeta# is = 7
+zeta = 350
+before r[j] = 1a8
+before r[jplen] = c97
+after r[j] = 1a3
+after r[jplen] = 1ad
+----------------
+j = 200  and jplen = 232  zeta# is = 7
+zeta = 350
+before r[j] = 4bd
+before r[jplen] = a2e
+after r[j] = 285
+after r[jplen] = 6f5
+----------------
+j = 201  and jplen = 233  zeta# is = 7
+zeta = 350
+before r[j] = 98f
+before r[jplen] = bc0
+after r[j] = c91
+after r[jplen] = 68d
+----------------
+j = 202  and jplen = 234  zeta# is = 7
+zeta = 350
+before r[j] = 6fd
+before r[jplen] = 47d
+after r[j] = 2e8
+after r[jplen] = b12
+----------------
+j = 203  and jplen = 235  zeta# is = 7
+zeta = 350
+before r[j] = 93b
+before r[jplen] = 6f0
+after r[j] = 176
+after r[jplen] = 3ff
+----------------
+j = 204  and jplen = 236  zeta# is = 7
+zeta = 350
+before r[j] = c57
+before r[jplen] = 686
+after r[j] = 48d
+after r[jplen] = 720
+----------------
+j = 205  and jplen = 237  zeta# is = 7
+zeta = 350
+before r[j] = 789
+before r[jplen] = 75f
+after r[j] = 358
+after r[jplen] = bba
+----------------
+j = 206  and jplen = 238  zeta# is = 7
+zeta = 350
+before r[j] = 57c
+before r[jplen] = ac2
+after r[j] = c5f
+after r[jplen] = b9a
+----------------
+j = 207  and jplen = 239  zeta# is = 7
+zeta = 350
+before r[j] = 9ec
+before r[jplen] = 711
+after r[j] = 76f
+after r[jplen] = c69
+----------------
+j = 208  and jplen = 240  zeta# is = 7
+zeta = 350
+before r[j] = abe
+before r[jplen] = 2ce
+after r[j] = 967
+after r[jplen] = c15
+----------------
+j = 209  and jplen = 241  zeta# is = 7
+zeta = 350
+before r[j] = 8f8
+before r[jplen] = 30f
+after r[j] = 1e0
+after r[jplen] = 30f
+----------------
+j = 210  and jplen = 242  zeta# is = 7
+zeta = 350
+before r[j] = 13
+before r[jplen] = 2b1
+after r[j] = 6b4
+after r[jplen] = 673
+----------------
+j = 211  and jplen = 243  zeta# is = 7
+zeta = 350
+before r[j] = 741
+before r[jplen] = 446
+after r[j] = 30a
+after r[jplen] = b78
+----------------
+j = 212  and jplen = 244  zeta# is = 7
+zeta = 350
+before r[j] = b04
+before r[jplen] = 72f
+after r[j] = 3df
+after r[jplen] = 528
+----------------
+j = 213  and jplen = 245  zeta# is = 7
+zeta = 350
+before r[j] = 66b
+before r[jplen] = 770
+after r[j] = 686
+after r[jplen] = 650
+----------------
+j = 214  and jplen = 246  zeta# is = 7
+zeta = 350
+before r[j] = fb
+before r[jplen] = 8cc
+after r[j] = 97e
+after r[jplen] = 579
+----------------
+j = 215  and jplen = 247  zeta# is = 7
+zeta = 350
+before r[j] = 279
+before r[jplen] = 434
+after r[j] = 3a7
+after r[jplen] = 14b
+----------------
+j = 216  and jplen = 248  zeta# is = 7
+zeta = 350
+before r[j] = 51
+before r[jplen] = a87
+after r[j] = 6d3
+after r[jplen] = 6d0
+----------------
+j = 217  and jplen = 249  zeta# is = 7
+zeta = 350
+before r[j] = 553
+before r[jplen] = cf5
+after r[j] = 496
+after r[jplen] = 610
+----------------
+j = 218  and jplen = 250  zeta# is = 7
+zeta = 350
+before r[j] = b29
+before r[jplen] = 8f9
+after r[j] = cb0
+after r[jplen] = 9a2
+----------------
+j = 219  and jplen = 251  zeta# is = 7
+zeta = 350
+before r[j] = 11c
+before r[jplen] = 77d
+after r[j] = 544
+after r[jplen] = 9f5
+----------------
+j = 220  and jplen = 252  zeta# is = 7
+zeta = 350
+before r[j] = b1b
+before r[jplen] = 240
+after r[j] = 788
+after r[jplen] = 1ad
+----------------
+j = 221  and jplen = 253  zeta# is = 7
+zeta = 350
+before r[j] = b98
+before r[jplen] = 7d4
+after r[j] = 4d9
+after r[jplen] = 556
+----------------
+j = 222  and jplen = 254  zeta# is = 7
+zeta = 350
+before r[j] = a14
+before r[jplen] = 94e
+after r[j] = 715
+after r[jplen] = 12
+----------------
+j = 223  and jplen = 255  zeta# is = 7
+zeta = 350
+before r[j] = 348
+before r[jplen] = b71
+after r[j] = 4ae
+after r[jplen] = 1e2
+============================================================================
+len = 16
+============================================================================
+**************************************
+start = 0
+**************************************
+----------------
+j = 0  and jplen = 16  zeta# is = 8
+zeta = 426
+before r[j] = 74f
+before r[jplen] = cfe
+after r[j] = 7de
+after r[jplen] = 6c0
+----------------
+j = 1  and jplen = 17  zeta# is = 8
+zeta = 426
+before r[j] = 6ad
+before r[jplen] = 4bc
+after r[j] = 212
+after r[jplen] = b48
+----------------
+j = 2  and jplen = 18  zeta# is = 8
+zeta = 426
+before r[j] = 3ed
+before r[jplen] = b29
+after r[j] = 974
+after r[jplen] = b67
+----------------
+j = 3  and jplen = 19  zeta# is = 8
+zeta = 426
+before r[j] = 751
+before r[jplen] = 388
+after r[j] = c61
+after r[jplen] = 241
+----------------
+j = 4  and jplen = 20  zeta# is = 8
+zeta = 426
+before r[j] = 808
+before r[jplen] = 1f1
+after r[j] = 22f
+after r[jplen] = e0
+----------------
+j = 5  and jplen = 21  zeta# is = 8
+zeta = 426
+before r[j] = 717
+before r[jplen] = 66c
+after r[j] = 12
+after r[jplen] = 11b
+----------------
+j = 6  and jplen = 22  zeta# is = 8
+zeta = 426
+before r[j] = 82
+before r[jplen] = c98
+after r[j] = 70e
+after r[jplen] = 6f7
+----------------
+j = 7  and jplen = 23  zeta# is = 8
+zeta = 426
+before r[j] = c6c
+before r[jplen] = 5d6
+after r[j] = 753
+after r[jplen] = 484
+----------------
+j = 8  and jplen = 24  zeta# is = 8
+zeta = 426
+before r[j] = 589
+before r[jplen] = 617
+after r[j] = a02
+after r[jplen] = 110
+----------------
+j = 9  and jplen = 25  zeta# is = 8
+zeta = 426
+before r[j] = 71c
+before r[jplen] = 396
+after r[j] = 53b
+after r[jplen] = 8fd
+----------------
+j = 10  and jplen = 26  zeta# is = 8
+zeta = 426
+before r[j] = 3fd
+before r[jplen] = 300
+after r[j] = 408
+after r[jplen] = 3f2
+----------------
+j = 11  and jplen = 27  zeta# is = 8
+zeta = 426
+before r[j] = 430
+before r[jplen] = 445
+after r[j] = 11
+after r[jplen] = 84f
+----------------
+j = 12  and jplen = 28  zeta# is = 8
+zeta = 426
+before r[j] = 942
+before r[jplen] = 2eb
+after r[j] = 35
+after r[jplen] = 54e
+----------------
+j = 13  and jplen = 29  zeta# is = 8
+zeta = 426
+before r[j] = 23f
+before r[jplen] = bf7
+after r[j] = 418
+after r[jplen] = 66
+----------------
+j = 14  and jplen = 30  zeta# is = 8
+zeta = 426
+before r[j] = 97e
+before r[jplen] = 8d7
+after r[j] = 896
+after r[jplen] = a66
+----------------
+j = 15  and jplen = 31  zeta# is = 8
+zeta = 426
+before r[j] = 882
+before r[jplen] = 2f9
+after r[j] = 585
+after r[jplen] = b7f
+**************************************
+start = 32
+**************************************
+----------------
+j = 32  and jplen = 48  zeta# is = 9
+zeta = 77f
+before r[j] = adb
+before r[jplen] = 492
+after r[j] = 3a6
+after r[jplen] = 50f
+----------------
+j = 33  and jplen = 49  zeta# is = 9
+zeta = 77f
+before r[j] = 1bf
+before r[jplen] = c8d
+after r[j] = 376
+after r[jplen] = 8
+----------------
+j = 34  and jplen = 50  zeta# is = 9
+zeta = 77f
+before r[j] = abe
+before r[jplen] = 357
+after r[j] = 8fa
+after r[jplen] = c82
+----------------
+j = 35  and jplen = 51  zeta# is = 9
+zeta = 77f
+before r[j] = 3f6
+before r[jplen] = ae
+after r[j] = 7e4
+after r[jplen] = 8
+----------------
+j = 36  and jplen = 52  zeta# is = 9
+zeta = 77f
+before r[j] = 29
+before r[jplen] = beb
+after r[j] = 9e0
+after r[jplen] = 373
+----------------
+j = 37  and jplen = 53  zeta# is = 9
+zeta = 77f
+before r[j] = 7e3
+before r[jplen] = 169
+after r[j] = 92a
+after r[jplen] = 69c
+----------------
+j = 38  and jplen = 54  zeta# is = 9
+zeta = 77f
+before r[j] = 3f6
+before r[jplen] = 2f4
+after r[j] = 14e
+after r[jplen] = 69e
+----------------
+j = 39  and jplen = 55  zeta# is = 9
+zeta = 77f
+before r[j] = 6f2
+before r[jplen] = 80e
+after r[j] = 23f
+after r[jplen] = ba5
+----------------
+j = 40  and jplen = 56  zeta# is = 9
+zeta = 77f
+before r[j] = b9b
+before r[jplen] = ad2
+after r[j] = 88c
+after r[jplen] = 1a9
+----------------
+j = 41  and jplen = 57  zeta# is = 9
+zeta = 77f
+before r[j] = 939
+before r[jplen] = 138
+after r[j] = 74d
+after r[jplen] = b25
+----------------
+j = 42  and jplen = 58  zeta# is = 9
+zeta = 77f
+before r[j] = 28d
+before r[jplen] = 78f
+after r[j] = 823
+after r[jplen] = 9f8
+----------------
+j = 43  and jplen = 59  zeta# is = 9
+zeta = 77f
+before r[j] = 8ee
+before r[jplen] = 856
+after r[j] = aca
+after r[jplen] = 712
+----------------
+j = 44  and jplen = 60  zeta# is = 9
+zeta = 77f
+before r[j] = 941
+before r[jplen] = 570
+after r[j] = 1ae
+after r[jplen] = 3d3
+----------------
+j = 45  and jplen = 61  zeta# is = 9
+zeta = 77f
+before r[j] = c7e
+before r[jplen] = b29
+after r[j] = b66
+after r[jplen] = 95
+----------------
+j = 46  and jplen = 62  zeta# is = 9
+zeta = 77f
+before r[j] = 436
+before r[jplen] = b93
+after r[j] = 477
+after r[jplen] = 3f5
+----------------
+j = 47  and jplen = 63  zeta# is = 9
+zeta = 77f
+before r[j] = 792
+before r[jplen] = a0c
+after r[j] = 2bb
+after r[jplen] = c69
+**************************************
+start = 64
+**************************************
+----------------
+j = 64  and jplen = 80  zeta# is = 10
+zeta = c1
+before r[j] = a3a
+before r[jplen] = 16b
+after r[j] = ad0
+after r[jplen] = 9a4
+----------------
+j = 65  and jplen = 81  zeta# is = 10
+zeta = c1
+before r[j] = 91
+before r[jplen] = 1a6
+after r[j] = 69f
+after r[jplen] = 784
+----------------
+j = 66  and jplen = 82  zeta# is = 10
+zeta = c1
+before r[j] = 777
+before r[jplen] = 972
+after r[j] = 9dd
+after r[jplen] = 511
+----------------
+j = 67  and jplen = 83  zeta# is = 10
+zeta = c1
+before r[j] = 6ed
+before r[jplen] = 784
+after r[j] = 101
+after r[jplen] = cd9
+----------------
+j = 68  and jplen = 84  zeta# is = 10
+zeta = c1
+before r[j] = aea
+before r[jplen] = c40
+after r[j] = 874
+after r[jplen] = 5f
+----------------
+j = 69  and jplen = 85  zeta# is = 10
+zeta = c1
+before r[j] = bef
+before r[jplen] = 42e
+after r[j] = c5f
+after r[jplen] = b7f
+----------------
+j = 70  and jplen = 86  zeta# is = 10
+zeta = c1
+before r[j] = 319
+before r[jplen] = 801
+after r[j] = 63
+after r[jplen] = 5cf
+----------------
+j = 71  and jplen = 87  zeta# is = 10
+zeta = c1
+before r[j] = a6f
+before r[jplen] = ce5
+after r[j] = 254
+after r[jplen] = 589
+----------------
+j = 72  and jplen = 88  zeta# is = 10
+zeta = c1
+before r[j] = 489
+before r[jplen] = b65
+after r[j] = 605
+after r[jplen] = 30d
+----------------
+j = 73  and jplen = 89  zeta# is = 10
+zeta = c1
+before r[j] = c66
+before r[jplen] = 6bc
+after r[j] = bbe
+after r[jplen] = d
+----------------
+j = 74  and jplen = 90  zeta# is = 10
+zeta = c1
+before r[j] = 2aa
+before r[jplen] = 45d
+after r[j] = c87
+after r[jplen] = 5ce
+----------------
+j = 75  and jplen = 91  zeta# is = 10
+zeta = c1
+before r[j] = be9
+before r[jplen] = 8ee
+after r[j] = 5d2
+after r[jplen] = 4ff
+----------------
+j = 76  and jplen = 92  zeta# is = 10
+zeta = c1
+before r[j] = a08
+before r[jplen] = 46a
+after r[j] = 3b0
+after r[jplen] = 35f
+----------------
+j = 77  and jplen = 93  zeta# is = 10
+zeta = c1
+before r[j] = 67
+before r[jplen] = 948
+after r[j] = a26
+after r[jplen] = 3a9
+----------------
+j = 78  and jplen = 94  zeta# is = 10
+zeta = c1
+before r[j] = 117
+before r[jplen] = 89d
+after r[j] = bf5
+after r[jplen] = 33a
+----------------
+j = 79  and jplen = 95  zeta# is = 10
+zeta = c1
+before r[j] = c1a
+before r[jplen] = 260
+after r[j] = 256
+after r[jplen] = 8dd
+**************************************
+start = 96
+**************************************
+----------------
+j = 96  and jplen = 112  zeta# is = 11
+zeta = 31d
+before r[j] = b21
+before r[jplen] = cc6
+after r[j] = 980
+after r[jplen] = cc2
+----------------
+j = 97  and jplen = 113  zeta# is = 11
+zeta = 31d
+before r[j] = b3
+before r[jplen] = 98
+after r[j] = 5c7
+after r[jplen] = 8a0
+----------------
+j = 98  and jplen = 114  zeta# is = 11
+zeta = 31d
+before r[j] = 662
+before r[jplen] = fd
+after r[j] = ce
+after r[jplen] = bf6
+----------------
+j = 99  and jplen = 115  zeta# is = 11
+zeta = 31d
+before r[j] = c3e
+before r[jplen] = 10b
+after r[j] = b3d
+after r[jplen] = 3e
+----------------
+j = 100  and jplen = 116  zeta# is = 11
+zeta = 31d
+before r[j] = 66d
+before r[jplen] = 9e7
+after r[j] = 539
+after r[jplen] = 7a1
+----------------
+j = 101  and jplen = 117  zeta# is = 11
+zeta = 31d
+before r[j] = 889
+before r[jplen] = 8c6
+after r[j] = 4dd
+after r[jplen] = c35
+----------------
+j = 102  and jplen = 118  zeta# is = 11
+zeta = 31d
+before r[j] = 1d
+before r[jplen] = 293
+after r[j] = a27
+after r[jplen] = 314
+----------------
+j = 103  and jplen = 119  zeta# is = 11
+zeta = 31d
+before r[j] = 66
+before r[jplen] = 6fe
+after r[j] = 780
+after r[jplen] = 64d
+----------------
+j = 104  and jplen = 120  zeta# is = 11
+zeta = 31d
+before r[j] = 409
+before r[jplen] = 547
+after r[j] = 9d1
+after r[jplen] = b42
+----------------
+j = 105  and jplen = 121  zeta# is = 11
+zeta = 31d
+before r[j] = a18
+before r[jplen] = b23
+after r[j] = 464
+after r[jplen] = 2cb
+----------------
+j = 106  and jplen = 122  zeta# is = 11
+zeta = 31d
+before r[j] = 18e
+before r[jplen] = a2a
+after r[j] = e1
+after r[jplen] = 23b
+----------------
+j = 107  and jplen = 123  zeta# is = 11
+zeta = 31d
+before r[j] = 96b
+before r[jplen] = a24
+after r[j] = 311
+after r[jplen] = 2c4
+----------------
+j = 108  and jplen = 124  zeta# is = 11
+zeta = 31d
+before r[j] = 18a
+before r[jplen] = 63f
+after r[j] = c2f
+after r[jplen] = 3e6
+----------------
+j = 109  and jplen = 125  zeta# is = 11
+zeta = 31d
+before r[j] = 14a
+before r[jplen] = 6db
+after r[j] = 375
+after r[jplen] = c20
+----------------
+j = 110  and jplen = 126  zeta# is = 11
+zeta = 31d
+before r[j] = 888
+before r[jplen] = 979
+after r[j] = 2f8
+after r[jplen] = 117
+----------------
+j = 111  and jplen = 127  zeta# is = 11
+zeta = 31d
+before r[j] = 99
+before r[jplen] = 46d
+after r[j] = 3e3
+after r[jplen] = a50
+**************************************
+start = 128
+**************************************
+----------------
+j = 128  and jplen = 144  zeta# is = 12
+zeta = ae2
+before r[j] = 712
+before r[jplen] = b57
+after r[j] = 62
+after r[jplen] = c1
+----------------
+j = 129  and jplen = 145  zeta# is = 12
+zeta = ae2
+before r[j] = c33
+before r[jplen] = 74f
+after r[j] = 9d3
+after r[jplen] = 192
+----------------
+j = 130  and jplen = 146  zeta# is = 12
+zeta = ae2
+before r[j] = c9b
+before r[jplen] = ce0
+after r[j] = 494
+after r[jplen] = 7a1
+----------------
+j = 131  and jplen = 147  zeta# is = 12
+zeta = ae2
+before r[j] = bb7
+before r[jplen] = 207
+after r[j] = 332
+after r[jplen] = 73b
+----------------
+j = 132  and jplen = 148  zeta# is = 12
+zeta = ae2
+before r[j] = 6c0
+before r[jplen] = 620
+after r[j] = 9e0
+after r[jplen] = 3a0
+----------------
+j = 133  and jplen = 149  zeta# is = 12
+zeta = ae2
+before r[j] = 40
+before r[jplen] = 52c
+after r[j] = c4
+after r[jplen] = cbd
+----------------
+j = 134  and jplen = 150  zeta# is = 12
+zeta = ae2
+before r[j] = 204
+before r[jplen] = ed
+after r[j] = 678
+after r[jplen] = a91
+----------------
+j = 135  and jplen = 151  zeta# is = 12
+zeta = ae2
+before r[j] = c8
+before r[jplen] = 19d
+after r[j] = 909
+after r[jplen] = 588
+----------------
+j = 136  and jplen = 152  zeta# is = 12
+zeta = ae2
+before r[j] = 9e5
+before r[jplen] = 6cc
+after r[j] = c4d
+after r[jplen] = 77d
+----------------
+j = 137  and jplen = 153  zeta# is = 12
+zeta = ae2
+before r[j] = 33a
+before r[jplen] = 6cd
+after r[j] = 383
+after r[jplen] = 2f1
+----------------
+j = 138  and jplen = 154  zeta# is = 12
+zeta = ae2
+before r[j] = b71
+before r[jplen] = 149
+after r[j] = 2cf
+after r[jplen] = 712
+----------------
+j = 139  and jplen = 155  zeta# is = 12
+zeta = ae2
+before r[j] = 19d
+before r[jplen] = cdf
+after r[j] = 8b6
+after r[jplen] = 785
+----------------
+j = 140  and jplen = 156  zeta# is = 12
+zeta = ae2
+before r[j] = 291
+before r[jplen] = c30
+after r[j] = 3be
+after r[jplen] = 164
+----------------
+j = 141  and jplen = 157  zeta# is = 12
+zeta = ae2
+before r[j] = 702
+before r[jplen] = 273
+after r[j] = 37b
+after r[jplen] = a89
+----------------
+j = 142  and jplen = 158  zeta# is = 12
+zeta = ae2
+before r[j] = 737
+before r[jplen] = 8db
+after r[j] = a24
+after r[jplen] = 44a
+----------------
+j = 143  and jplen = 159  zeta# is = 12
+zeta = ae2
+before r[j] = 4c1
+before r[jplen] = 2c7
+after r[j] = 51c
+after r[jplen] = 466
+**************************************
+start = 160
+**************************************
+----------------
+j = 160  and jplen = 176  zeta# is = 13
+zeta = cbc
+before r[j] = 544
+before r[jplen] = 470
+after r[j] = b2c
+after r[jplen] = c5d
+----------------
+j = 161  and jplen = 177  zeta# is = 13
+zeta = cbc
+before r[j] = 19f
+before r[jplen] = 2df
+after r[j] = b94
+after r[jplen] = 4ab
+----------------
+j = 162  and jplen = 178  zeta# is = 13
+zeta = cbc
+before r[j] = 28b
+before r[jplen] = 931
+after r[j] = 587
+after r[jplen] = c90
+----------------
+j = 163  and jplen = 179  zeta# is = 13
+zeta = cbc
+before r[j] = 3de
+before r[jplen] = 8fa
+after r[j] = 8ac
+after r[jplen] = c11
+----------------
+j = 164  and jplen = 180  zeta# is = 13
+zeta = cbc
+before r[j] = 274
+before r[jplen] = 2e4
+after r[j] = b10
+after r[jplen] = 6d9
+----------------
+j = 165  and jplen = 181  zeta# is = 13
+zeta = cbc
+before r[j] = 64f
+before r[jplen] = 913
+after r[j] = 460
+after r[jplen] = 83e
+----------------
+j = 166  and jplen = 182  zeta# is = 13
+zeta = cbc
+before r[j] = 908
+before r[jplen] = 2e2
+after r[j] = 52d
+after r[jplen] = ce3
+----------------
+j = 167  and jplen = 183  zeta# is = 13
+zeta = cbc
+before r[j] = b66
+before r[jplen] = 492
+after r[j] = 824
+after r[jplen] = 1a7
+----------------
+j = 168  and jplen = 184  zeta# is = 13
+zeta = cbc
+before r[j] = 84b
+before r[jplen] = 63f
+after r[j] = 671
+after r[jplen] = a25
+----------------
+j = 169  and jplen = 185  zeta# is = 13
+zeta = cbc
+before r[j] = 5fb
+before r[jplen] = cff
+after r[j] = 685
+after r[jplen] = 571
+----------------
+j = 170  and jplen = 186  zeta# is = 13
+zeta = cbc
+before r[j] = 9f6
+before r[jplen] = 1a5
+after r[j] = 85
+after r[jplen] = 666
+----------------
+j = 171  and jplen = 187  zeta# is = 13
+zeta = cbc
+before r[j] = ae1
+before r[jplen] = 575
+after r[j] = b75
+after r[jplen] = a4d
+----------------
+j = 172  and jplen = 188  zeta# is = 13
+zeta = cbc
+before r[j] = 7db
+before r[jplen] = 15f
+after r[j] = 447
+after r[jplen] = b6f
+----------------
+j = 173  and jplen = 189  zeta# is = 13
+zeta = cbc
+before r[j] = 51a
+before r[jplen] = 333
+after r[j] = 56c
+after r[jplen] = 4c8
+----------------
+j = 174  and jplen = 190  zeta# is = 13
+zeta = cbc
+before r[j] = 747
+before r[jplen] = cc7
+after r[j] = 9e8
+after r[jplen] = 4a6
+----------------
+j = 175  and jplen = 191  zeta# is = 13
+zeta = cbc
+before r[j] = cdd
+before r[jplen] = 143
+after r[j] = 3d4
+after r[jplen] = 8e5
+**************************************
+start = 192
+**************************************
+----------------
+j = 192  and jplen = 208  zeta# is = 14
+zeta = 239
+before r[j] = 260
+before r[jplen] = 967
+after r[j] = 7b4
+after r[jplen] = a0d
+----------------
+j = 193  and jplen = 209  zeta# is = 14
+zeta = 239
+before r[j] = 915
+before r[jplen] = 1e0
+after r[j] = 9a3
+after r[jplen] = 887
+----------------
+j = 194  and jplen = 210  zeta# is = 14
+zeta = 239
+before r[j] = 356
+before r[jplen] = 6b4
+after r[j] = 745
+after r[jplen] = c68
+----------------
+j = 195  and jplen = 211  zeta# is = 14
+zeta = 239
+before r[j] = 1c0
+before r[jplen] = 30a
+after r[j] = 175
+after r[jplen] = 20b
+----------------
+j = 196  and jplen = 212  zeta# is = 14
+zeta = 239
+before r[j] = 7a6
+before r[jplen] = 3df
+after r[j] = ca4
+after r[jplen] = 2a8
+----------------
+j = 197  and jplen = 213  zeta# is = 14
+zeta = 239
+before r[j] = 4ef
+before r[jplen] = 686
+after r[j] = aa8
+after r[jplen] = c37
+----------------
+j = 198  and jplen = 214  zeta# is = 14
+zeta = 239
+before r[j] = bba
+before r[jplen] = 97e
+after r[j] = 328
+after r[jplen] = 74b
+----------------
+j = 199  and jplen = 215  zeta# is = 14
+zeta = 239
+before r[j] = 1a3
+before r[jplen] = 3a7
+after r[j] = c33
+after r[jplen] = 414
+----------------
+j = 200  and jplen = 216  zeta# is = 14
+zeta = 239
+before r[j] = 285
+before r[jplen] = 6d3
+after r[j] = a56
+after r[jplen] = 7b5
+----------------
+j = 201  and jplen = 217  zeta# is = 14
+zeta = 239
+before r[j] = c91
+before r[jplen] = 496
+after r[j] = 82e
+after r[jplen] = 3f3
+----------------
+j = 202  and jplen = 218  zeta# is = 14
+zeta = 239
+before r[j] = 2e8
+before r[jplen] = cb0
+after r[j] = 4ed
+after r[jplen] = e3
+----------------
+j = 203  and jplen = 219  zeta# is = 14
+zeta = 239
+before r[j] = 176
+before r[jplen] = 544
+after r[j] = 6b4
+after r[jplen] = 939
+----------------
+j = 204  and jplen = 220  zeta# is = 14
+zeta = 239
+before r[j] = 48d
+before r[jplen] = 788
+after r[j] = b8c
+after r[jplen] = a8f
+----------------
+j = 205  and jplen = 221  zeta# is = 14
+zeta = 239
+before r[j] = 358
+before r[jplen] = 4d9
+after r[j] = 4d5
+after r[jplen] = 1db
+----------------
+j = 206  and jplen = 222  zeta# is = 14
+zeta = 239
+before r[j] = c5f
+before r[jplen] = 715
+after r[j] = ad6
+after r[jplen] = e7
+----------------
+j = 207  and jplen = 223  zeta# is = 14
+zeta = 239
+before r[j] = 76f
+before r[jplen] = 4ae
+after r[j] = 460
+after r[jplen] = a7e
+**************************************
+start = 224
+**************************************
+----------------
+j = 224  and jplen = 240  zeta# is = 15
+zeta = 6d2
+before r[j] = 4aa
+before r[jplen] = c15
+after r[j] = 78e
+after r[jplen] = 1c6
+----------------
+j = 225  and jplen = 241  zeta# is = 15
+zeta = 6d2
+before r[j] = b1
+before r[jplen] = 30f
+after r[j] = 965
+after r[jplen] = 4fe
+----------------
+j = 226  and jplen = 242  zeta# is = 15
+zeta = 6d2
+before r[j] = 7a6
+before r[jplen] = 673
+after r[j] = 69a
+after r[jplen] = 8b2
+----------------
+j = 227  and jplen = 243  zeta# is = 15
+zeta = 6d2
+before r[j] = b22
+before r[jplen] = b78
+after r[j] = 98e
+after r[jplen] = cb6
+----------------
+j = 228  and jplen = 244  zeta# is = 15
+zeta = 6d2
+before r[j] = 199
+before r[jplen] = 528
+after r[j] = 5b5
+after r[jplen] = a7e
+----------------
+j = 229  and jplen = 245  zeta# is = 15
+zeta = 6d2
+before r[j] = 388
+before r[jplen] = 650
+after r[j] = ad9
+after r[jplen] = 938
+----------------
+j = 230  and jplen = 246  zeta# is = 15
+zeta = 6d2
+before r[j] = 8f3
+before r[jplen] = 579
+after r[j] = 656
+after r[jplen] = b90
+----------------
+j = 231  and jplen = 247  zeta# is = 15
+zeta = 6d2
+before r[j] = 1ad
+before r[jplen] = 14b
+after r[j] = 986
+after r[jplen] = 6d5
+----------------
+j = 232  and jplen = 248  zeta# is = 15
+zeta = 6d2
+before r[j] = 6f5
+before r[jplen] = 6d0
+after r[j] = 302
+after r[jplen] = ae8
+----------------
+j = 233  and jplen = 249  zeta# is = 15
+zeta = 6d2
+before r[j] = 68d
+before r[jplen] = 610
+after r[j] = 67f
+after r[jplen] = 69b
+----------------
+j = 234  and jplen = 250  zeta# is = 15
+zeta = 6d2
+before r[j] = b12
+before r[jplen] = 9a2
+after r[j] = 2e8
+after r[jplen] = 63b
+----------------
+j = 235  and jplen = 251  zeta# is = 15
+zeta = 6d2
+before r[j] = 3ff
+before r[jplen] = 9f5
+after r[j] = 2c0
+after r[jplen] = 53e
+----------------
+j = 236  and jplen = 252  zeta# is = 15
+zeta = 6d2
+before r[j] = 720
+before r[jplen] = 1ad
+after r[j] = 729
+after r[jplen] = 717
+----------------
+j = 237  and jplen = 253  zeta# is = 15
+zeta = 6d2
+before r[j] = bba
+before r[jplen] = 556
+after r[j] = 479
+after r[jplen] = 5fa
+----------------
+j = 238  and jplen = 254  zeta# is = 15
+zeta = 6d2
+before r[j] = b9a
+before r[jplen] = 12
+after r[j] = 454
+after r[jplen] = 5df
+----------------
+j = 239  and jplen = 255  zeta# is = 15
+zeta = 6d2
+before r[j] = c69
+before r[jplen] = 1e2
+after r[j] = 9d0
+after r[jplen] = 201
+============================================================================
+len = 8
+============================================================================
+**************************************
+start = 0
+**************************************
+----------------
+j = 0  and jplen = 8  zeta# is = 16
+zeta = 128
+before r[j] = 7de
+before r[jplen] = a02
+after r[j] = 54a
+after r[jplen] = a72
+----------------
+j = 1  and jplen = 9  zeta# is = 16
+zeta = 128
+before r[j] = 212
+before r[jplen] = 53b
+after r[j] = 2d3
+after r[jplen] = 151
+----------------
+j = 2  and jplen = 10  zeta# is = 16
+zeta = 128
+before r[j] = 974
+before r[jplen] = 408
+after r[j] = 658
+after r[jplen] = c90
+----------------
+j = 3  and jplen = 11  zeta# is = 16
+zeta = 128
+before r[j] = c61
+before r[jplen] = 11
+after r[j] = 607
+after r[jplen] = 5ba
+----------------
+j = 4  and jplen = 12  zeta# is = 16
+zeta = 128
+before r[j] = 22f
+before r[jplen] = 35
+after r[j] = b73
+after r[jplen] = 5ec
+----------------
+j = 5  and jplen = 13  zeta# is = 16
+zeta = 128
+before r[j] = 12
+before r[jplen] = 418
+after r[j] = 275
+after r[jplen] = ab0
+----------------
+j = 6  and jplen = 14  zeta# is = 16
+zeta = 128
+before r[j] = 70e
+before r[jplen] = 896
+after r[j] = cbb
+after r[jplen] = 161
+----------------
+j = 7  and jplen = 15  zeta# is = 16
+zeta = 128
+before r[j] = 753
+before r[jplen] = 585
+after r[j] = 29d
+after r[jplen] = c09
+**************************************
+start = 16
+**************************************
+----------------
+j = 16  and jplen = 24  zeta# is = 17
+zeta = 98f
+before r[j] = 6c0
+before r[jplen] = 110
+after r[j] = 5e8
+after r[jplen] = 798
+----------------
+j = 17  and jplen = 25  zeta# is = 17
+zeta = 98f
+before r[j] = b48
+before r[jplen] = 8fd
+after r[j] = 2ff
+after r[jplen] = 690
+----------------
+j = 18  and jplen = 26  zeta# is = 17
+zeta = 98f
+before r[j] = b67
+before r[jplen] = 3f2
+after r[j] = 3ae
+after r[jplen] = 61f
+----------------
+j = 19  and jplen = 27  zeta# is = 17
+zeta = 98f
+before r[j] = 241
+before r[jplen] = 84f
+after r[j] = 847
+after r[jplen] = 93c
+----------------
+j = 20  and jplen = 28  zeta# is = 17
+zeta = 98f
+before r[j] = e0
+before r[jplen] = 54e
+after r[j] = 38c
+after r[jplen] = b35
+----------------
+j = 21  and jplen = 29  zeta# is = 17
+zeta = 98f
+before r[j] = 11b
+before r[jplen] = 66
+after r[j] = ca
+after r[jplen] = 16c
+----------------
+j = 22  and jplen = 30  zeta# is = 17
+zeta = 98f
+before r[j] = 6f7
+before r[jplen] = a66
+after r[j] = 34c
+after r[jplen] = aa2
+----------------
+j = 23  and jplen = 31  zeta# is = 17
+zeta = 98f
+before r[j] = 484
+before r[jplen] = b7f
+after r[j] = 802
+after r[jplen] = 106
+**************************************
+start = 32
+**************************************
+----------------
+j = 32  and jplen = 40  zeta# is = 18
+zeta = 53b
+before r[j] = 3a6
+before r[jplen] = 88c
+after r[j] = 47a
+after r[jplen] = 2d2
+----------------
+j = 33  and jplen = 41  zeta# is = 18
+zeta = 53b
+before r[j] = 376
+before r[jplen] = 74d
+after r[j] = 45
+after r[jplen] = 6a7
+----------------
+j = 34  and jplen = 42  zeta# is = 18
+zeta = 53b
+before r[j] = 8fa
+before r[jplen] = 823
+after r[j] = 6c5
+after r[jplen] = b2f
+----------------
+j = 35  and jplen = 43  zeta# is = 18
+zeta = 53b
+before r[j] = 7e4
+before r[jplen] = aca
+after r[j] = 71b
+after r[jplen] = 8ad
+----------------
+j = 36  and jplen = 44  zeta# is = 18
+zeta = 53b
+before r[j] = 9e0
+before r[jplen] = 1ae
+after r[j] = 94d
+after r[jplen] = a73
+----------------
+j = 37  and jplen = 45  zeta# is = 18
+zeta = 53b
+before r[j] = 92a
+before r[jplen] = b66
+after r[j] = 516
+after r[jplen] = 3d
+----------------
+j = 38  and jplen = 46  zeta# is = 18
+zeta = 53b
+before r[j] = 14e
+before r[jplen] = 477
+after r[j] = af0
+after r[jplen] = 4ad
+----------------
+j = 39  and jplen = 47  zeta# is = 18
+zeta = 53b
+before r[j] = 23f
+before r[jplen] = 2bb
+after r[j] = 43f
+after r[jplen] = 3f
+**************************************
+start = 48
+**************************************
+----------------
+j = 48  and jplen = 56  zeta# is = 19
+zeta = 5c4
+before r[j] = 50f
+before r[jplen] = 1a9
+after r[j] = ab7
+after r[jplen] = c68
+----------------
+j = 49  and jplen = 57  zeta# is = 19
+zeta = 5c4
+before r[j] = 8
+before r[jplen] = b25
+after r[j] = c6c
+after r[jplen] = a5
+----------------
+j = 50  and jplen = 58  zeta# is = 19
+zeta = 5c4
+before r[j] = c82
+before r[jplen] = 9f8
+after r[j] = 5f6
+after r[jplen] = 60d
+----------------
+j = 51  and jplen = 59  zeta# is = 19
+zeta = 5c4
+before r[j] = 8
+before r[jplen] = 712
+after r[j] = 6ae
+after r[jplen] = 663
+----------------
+j = 52  and jplen = 60  zeta# is = 19
+zeta = 5c4
+before r[j] = 373
+before r[jplen] = 3d3
+after r[j] = 44d
+after r[jplen] = 299
+----------------
+j = 53  and jplen = 61  zeta# is = 19
+zeta = 5c4
+before r[j] = 69c
+before r[jplen] = 95
+after r[j] = 76e
+after r[jplen] = 5ca
+----------------
+j = 54  and jplen = 62  zeta# is = 19
+zeta = 5c4
+before r[j] = 69e
+before r[jplen] = 3f5
+after r[j] = 871
+after r[jplen] = 4cb
+----------------
+j = 55  and jplen = 63  zeta# is = 19
+zeta = 5c4
+before r[j] = ba5
+before r[jplen] = c69
+after r[j] = 688
+after r[jplen] = 3c1
+**************************************
+start = 64
+**************************************
+----------------
+j = 64  and jplen = 72  zeta# is = 20
+zeta = be6
+before r[j] = ad0
+before r[jplen] = 605
+after r[j] = acc
+after r[jplen] = ad4
+----------------
+j = 65  and jplen = 73  zeta# is = 20
+zeta = be6
+before r[j] = 69f
+before r[jplen] = bbe
+after r[j] = c95
+after r[jplen] = a9
+----------------
+j = 66  and jplen = 74  zeta# is = 20
+zeta = be6
+before r[j] = 9dd
+before r[jplen] = c87
+after r[j] = 1b0
+after r[jplen] = 509
+----------------
+j = 67  and jplen = 75  zeta# is = 20
+zeta = be6
+before r[j] = 101
+before r[jplen] = 5d2
+after r[j] = 55a
+after r[jplen] = 9a9
+----------------
+j = 68  and jplen = 76  zeta# is = 20
+zeta = be6
+before r[j] = 874
+before r[jplen] = 3b0
+after r[j] = 534
+after r[jplen] = bb4
+----------------
+j = 69  and jplen = 77  zeta# is = 20
+zeta = be6
+before r[j] = c5f
+before r[jplen] = a26
+after r[j] = 139
+after r[jplen] = a84
+----------------
+j = 70  and jplen = 78  zeta# is = 20
+zeta = be6
+before r[j] = 63
+before r[jplen] = bf5
+after r[j] = a91
+after r[jplen] = 336
+----------------
+j = 71  and jplen = 79  zeta# is = 20
+zeta = be6
+before r[j] = 254
+before r[jplen] = 256
+after r[j] = 475
+after r[jplen] = 33
+**************************************
+start = 80
+**************************************
+----------------
+j = 80  and jplen = 88  zeta# is = 21
+zeta = 38
+before r[j] = 9a4
+before r[jplen] = 30d
+after r[j] = b6f
+after r[jplen] = 7d9
+----------------
+j = 81  and jplen = 89  zeta# is = 21
+zeta = 38
+before r[j] = 784
+before r[jplen] = d
+after r[j] = a5c
+after r[jplen] = 4ac
+----------------
+j = 82  and jplen = 90  zeta# is = 21
+zeta = 38
+before r[j] = 511
+before r[jplen] = 5ce
+after r[j] = 508
+after r[jplen] = 51a
+----------------
+j = 83  and jplen = 91  zeta# is = 21
+zeta = 38
+before r[j] = cd9
+before r[jplen] = 4ff
+after r[j] = 68b
+after r[jplen] = 626
+----------------
+j = 84  and jplen = 92  zeta# is = 21
+zeta = 38
+before r[j] = 5f
+before r[jplen] = 35f
+after r[j] = 719
+after r[jplen] = 6a6
+----------------
+j = 85  and jplen = 93  zeta# is = 21
+zeta = 38
+before r[j] = b7f
+before r[jplen] = 3a9
+after r[j] = 867
+after r[jplen] = 196
+----------------
+j = 86  and jplen = 94  zeta# is = 21
+zeta = 38
+before r[j] = 5cf
+before r[jplen] = 33a
+after r[j] = 471
+after r[jplen] = 72d
+----------------
+j = 87  and jplen = 95  zeta# is = 21
+zeta = 38
+before r[j] = 589
+before r[jplen] = 8dd
+after r[j] = 7bb
+after r[jplen] = 357
+**************************************
+start = 96
+**************************************
+----------------
+j = 96  and jplen = 104  zeta# is = 22
+zeta = 8c0
+before r[j] = 980
+before r[jplen] = 9d1
+after r[j] = 8a5
+after r[jplen] = a5b
+----------------
+j = 97  and jplen = 105  zeta# is = 22
+zeta = 8c0
+before r[j] = 5c7
+before r[jplen] = 464
+after r[j] = 9d3
+after r[jplen] = 1bb
+----------------
+j = 98  and jplen = 106  zeta# is = 22
+zeta = 8c0
+before r[j] = ce
+before r[jplen] = e1
+after r[j] = 5f7
+after r[jplen] = 8a6
+----------------
+j = 99  and jplen = 107  zeta# is = 22
+zeta = 8c0
+before r[j] = b3d
+before r[jplen] = 311
+after r[j] = ec
+after r[jplen] = 88d
+----------------
+j = 100  and jplen = 108  zeta# is = 22
+zeta = 8c0
+before r[j] = 539
+before r[jplen] = c2f
+after r[j] = 146
+after r[jplen] = 92c
+----------------
+j = 101  and jplen = 109  zeta# is = 22
+zeta = 8c0
+before r[j] = 4dd
+before r[jplen] = 375
+after r[j] = b4a
+after r[jplen] = b71
+----------------
+j = 102  and jplen = 110  zeta# is = 22
+zeta = 8c0
+before r[j] = a27
+before r[jplen] = 2f8
+after r[j] = 227
+after r[jplen] = 526
+----------------
+j = 103  and jplen = 111  zeta# is = 22
+zeta = 8c0
+before r[j] = 780
+before r[jplen] = 3e3
+after r[j] = 122
+after r[jplen] = dd
+**************************************
+start = 112
+**************************************
+----------------
+j = 112  and jplen = 120  zeta# is = 23
+zeta = 535
+before r[j] = cc2
+before r[jplen] = b42
+after r[j] = cea
+after r[jplen] = c9a
+----------------
+j = 113  and jplen = 121  zeta# is = 23
+zeta = 535
+before r[j] = 8a0
+before r[jplen] = 2cb
+after r[j] = c89
+after r[jplen] = 4b7
+----------------
+j = 114  and jplen = 122  zeta# is = 23
+zeta = 535
+before r[j] = bf6
+before r[jplen] = 23b
+after r[j] = 748
+after r[jplen] = 3a3
+----------------
+j = 115  and jplen = 123  zeta# is = 23
+zeta = 535
+before r[j] = 3e
+before r[jplen] = 2c4
+after r[j] = 6b7
+after r[jplen] = 6c6
+----------------
+j = 116  and jplen = 124  zeta# is = 23
+zeta = 535
+before r[j] = 7a1
+before r[jplen] = 3e6
+after r[j] = 2af
+after r[jplen] = c93
+----------------
+j = 117  and jplen = 125  zeta# is = 23
+zeta = 535
+before r[j] = c35
+before r[jplen] = c20
+after r[j] = afa
+after r[jplen] = 6f
+----------------
+j = 118  and jplen = 126  zeta# is = 23
+zeta = 535
+before r[j] = 314
+before r[jplen] = 117
+after r[j] = c68
+after r[jplen] = 6c1
+----------------
+j = 119  and jplen = 127  zeta# is = 23
+zeta = 535
+before r[j] = 64d
+before r[jplen] = a50
+after r[j] = 7bc
+after r[jplen] = 4de
+**************************************
+start = 128
+**************************************
+----------------
+j = 128  and jplen = 136  zeta# is = 24
+zeta = 592
+before r[j] = 62
+before r[jplen] = c4d
+after r[j] = c08
+after r[jplen] = 1bd
+----------------
+j = 129  and jplen = 137  zeta# is = 24
+zeta = 592
+before r[j] = 9d3
+before r[jplen] = 383
+after r[j] = b08
+after r[jplen] = 89e
+----------------
+j = 130  and jplen = 138  zeta# is = 24
+zeta = 592
+before r[j] = 494
+before r[jplen] = 2cf
+after r[j] = 46e
+after r[jplen] = 4ba
+----------------
+j = 131  and jplen = 139  zeta# is = 24
+zeta = 592
+before r[j] = 332
+before r[jplen] = 8b6
+after r[j] = 643
+after r[jplen] = 21
+----------------
+j = 132  and jplen = 140  zeta# is = 24
+zeta = 592
+before r[j] = 9e0
+before r[jplen] = 3be
+after r[j] = 1a1
+after r[jplen] = 51e
+----------------
+j = 133  and jplen = 141  zeta# is = 24
+zeta = 592
+before r[j] = c4
+before r[jplen] = 37b
+after r[j] = 96d
+after r[jplen] = 51c
+----------------
+j = 134  and jplen = 142  zeta# is = 24
+zeta = 592
+before r[j] = 678
+before r[jplen] = a24
+after r[j] = 6a8
+after r[jplen] = 648
+----------------
+j = 135  and jplen = 143  zeta# is = 24
+zeta = 592
+before r[j] = 909
+before r[jplen] = 51c
+after r[j] = cd1
+after r[jplen] = 541
+**************************************
+start = 144
+**************************************
+----------------
+j = 144  and jplen = 152  zeta# is = 25
+zeta = 82e
+before r[j] = c1
+before r[jplen] = 77d
+after r[j] = b82
+after r[jplen] = 301
+----------------
+j = 145  and jplen = 153  zeta# is = 25
+zeta = 82e
+before r[j] = 192
+before r[jplen] = 2f1
+after r[j] = a07
+after r[jplen] = 61e
+----------------
+j = 146  and jplen = 154  zeta# is = 25
+zeta = 82e
+before r[j] = 7a1
+before r[jplen] = 712
+after r[j] = 16a
+after r[jplen] = d7
+----------------
+j = 147  and jplen = 155  zeta# is = 25
+zeta = 82e
+before r[j] = 73b
+before r[jplen] = 785
+after r[j] = 566
+after r[jplen] = 910
+----------------
+j = 148  and jplen = 156  zeta# is = 25
+zeta = 82e
+before r[j] = 3a0
+before r[jplen] = 164
+after r[j] = 2b8
+after r[jplen] = 488
+----------------
+j = 149  and jplen = 157  zeta# is = 25
+zeta = 82e
+before r[j] = cbd
+before r[jplen] = a89
+after r[j] = 5ba
+after r[jplen] = 6bf
+----------------
+j = 150  and jplen = 158  zeta# is = 25
+zeta = 82e
+before r[j] = a91
+before r[jplen] = 44a
+after r[j] = 62a
+after r[jplen] = 1f7
+----------------
+j = 151  and jplen = 159  zeta# is = 25
+zeta = 82e
+before r[j] = 588
+before r[jplen] = 466
+after r[j] = 918
+after r[jplen] = 1f8
+**************************************
+start = 160
+**************************************
+----------------
+j = 160  and jplen = 168  zeta# is = 26
+zeta = 217
+before r[j] = b2c
+before r[jplen] = 671
+after r[j] = b4a
+after r[jplen] = b0e
+----------------
+j = 161  and jplen = 169  zeta# is = 26
+zeta = 217
+before r[j] = b94
+before r[jplen] = 685
+after r[j] = 17a
+after r[jplen] = 8ad
+----------------
+j = 162  and jplen = 170  zeta# is = 26
+zeta = 217
+before r[j] = 587
+before r[jplen] = 85
+after r[j] = a65
+after r[jplen] = a9
+----------------
+j = 163  and jplen = 171  zeta# is = 26
+zeta = 217
+before r[j] = 8ac
+before r[jplen] = b75
+after r[j] = 57
+after r[jplen] = 400
+----------------
+j = 164  and jplen = 172  zeta# is = 26
+zeta = 217
+before r[j] = b10
+before r[jplen] = 447
+after r[j] = ac1
+after r[jplen] = b5f
+----------------
+j = 165  and jplen = 173  zeta# is = 26
+zeta = 217
+before r[j] = 460
+before r[jplen] = 56c
+after r[j] = 535
+after r[jplen] = 38b
+----------------
+j = 166  and jplen = 174  zeta# is = 26
+zeta = 217
+before r[j] = 52d
+before r[jplen] = 9e8
+after r[j] = c6e
+after r[jplen] = aed
+----------------
+j = 167  and jplen = 175  zeta# is = 26
+zeta = 217
+before r[j] = 824
+before r[jplen] = 3d4
+after r[j] = 192
+after r[jplen] = 1b5
+**************************************
+start = 176
+**************************************
+----------------
+j = 176  and jplen = 184  zeta# is = 27
+zeta = b42
+before r[j] = c5d
+before r[jplen] = a25
+after r[j] = 31e
+after r[jplen] = 89b
+----------------
+j = 177  and jplen = 185  zeta# is = 27
+zeta = b42
+before r[j] = 4ab
+before r[jplen] = 571
+after r[j] = 417
+after r[jplen] = 53f
+----------------
+j = 178  and jplen = 186  zeta# is = 27
+zeta = b42
+before r[j] = c90
+before r[jplen] = 666
+after r[j] = 51
+after r[jplen] = bce
+----------------
+j = 179  and jplen = 187  zeta# is = 27
+zeta = b42
+before r[j] = c11
+before r[jplen] = a4d
+after r[j] = b00
+after r[jplen] = 21
+----------------
+j = 180  and jplen = 188  zeta# is = 27
+zeta = b42
+before r[j] = 6d9
+before r[jplen] = b6f
+after r[j] = 691
+after r[jplen] = 721
+----------------
+j = 181  and jplen = 189  zeta# is = 27
+zeta = b42
+before r[j] = 83e
+before r[jplen] = 4c8
+after r[j] = 3aa
+after r[jplen] = cd2
+----------------
+j = 182  and jplen = 190  zeta# is = 27
+zeta = b42
+before r[j] = ce3
+before r[jplen] = 4a6
+after r[j] = 2a8
+after r[jplen] = a1d
+----------------
+j = 183  and jplen = 191  zeta# is = 27
+zeta = b42
+before r[j] = 1a7
+before r[jplen] = 8e5
+after r[j] = 4fe
+after r[jplen] = b51
+**************************************
+start = 192
+**************************************
+----------------
+j = 192  and jplen = 200  zeta# is = 28
+zeta = 959
+before r[j] = 7b4
+before r[jplen] = a56
+after r[j] = 82c
+after r[jplen] = 73c
+----------------
+j = 193  and jplen = 201  zeta# is = 28
+zeta = 959
+before r[j] = 9a3
+before r[jplen] = 82e
+after r[j] = cc0
+after r[jplen] = 686
+----------------
+j = 194  and jplen = 202  zeta# is = 28
+zeta = 959
+before r[j] = 745
+before r[jplen] = 4ed
+after r[j] = 1f
+after r[jplen] = 16a
+----------------
+j = 195  and jplen = 203  zeta# is = 28
+zeta = 959
+before r[j] = 175
+before r[jplen] = 6b4
+after r[j] = 838
+after r[jplen] = 7b3
+----------------
+j = 196  and jplen = 204  zeta# is = 28
+zeta = 959
+before r[j] = ca4
+before r[jplen] = b8c
+after r[j] = b03
+after r[jplen] = 144
+----------------
+j = 197  and jplen = 205  zeta# is = 28
+zeta = 959
+before r[j] = aa8
+before r[jplen] = 4d5
+after r[j] = 3b
+after r[jplen] = 814
+----------------
+j = 198  and jplen = 206  zeta# is = 28
+zeta = 959
+before r[j] = 328
+before r[jplen] = ad6
+after r[j] = 3c4
+after r[jplen] = 28c
+----------------
+j = 199  and jplen = 207  zeta# is = 28
+zeta = 959
+before r[j] = c33
+before r[jplen] = 460
+after r[j] = 6d
+after r[jplen] = af8
+**************************************
+start = 208
+**************************************
+----------------
+j = 208  and jplen = 216  zeta# is = 29
+zeta = b3f
+before r[j] = a0d
+before r[jplen] = 7b5
+after r[j] = ed
+after r[jplen] = 62c
+----------------
+j = 209  and jplen = 217  zeta# is = 29
+zeta = b3f
+before r[j] = 887
+before r[jplen] = 3f3
+after r[j] = cea
+after r[jplen] = 424
+----------------
+j = 210  and jplen = 218  zeta# is = 29
+zeta = b3f
+before r[j] = c68
+before r[jplen] = e3
+after r[j] = 380
+after r[jplen] = 84f
+----------------
+j = 211  and jplen = 219  zeta# is = 29
+zeta = b3f
+before r[j] = 20b
+before r[jplen] = 939
+after r[j] = 18
+after r[jplen] = 3fe
+----------------
+j = 212  and jplen = 220  zeta# is = 29
+zeta = b3f
+before r[j] = 2a8
+before r[jplen] = a8f
+after r[j] = ab8
+after r[jplen] = 799
+----------------
+j = 213  and jplen = 221  zeta# is = 29
+zeta = b3f
+before r[j] = c37
+before r[jplen] = 1db
+after r[j] = 981
+after r[jplen] = 1ec
+----------------
+j = 214  and jplen = 222  zeta# is = 29
+zeta = b3f
+before r[j] = 74b
+before r[jplen] = e7
+after r[j] = 45c
+after r[jplen] = a3a
+----------------
+j = 215  and jplen = 223  zeta# is = 29
+zeta = b3f
+before r[j] = 414
+before r[jplen] = a7e
+after r[j] = 303
+after r[jplen] = 525
+**************************************
+start = 224
+**************************************
+----------------
+j = 224  and jplen = 232  zeta# is = 30
+zeta = 7b6
+before r[j] = 78e
+before r[jplen] = 302
+after r[j] = 231
+after r[jplen] = ceb
+----------------
+j = 225  and jplen = 233  zeta# is = 30
+zeta = 7b6
+before r[j] = 965
+before r[jplen] = 67f
+after r[j] = ad5
+after r[jplen] = 7f5
+----------------
+j = 226  and jplen = 234  zeta# is = 30
+zeta = 7b6
+before r[j] = 69a
+before r[jplen] = 2e8
+after r[j] = 8d1
+after r[jplen] = 463
+----------------
+j = 227  and jplen = 235  zeta# is = 30
+zeta = 7b6
+before r[j] = 98e
+before r[jplen] = 2c0
+after r[j] = 26c
+after r[jplen] = 3af
+----------------
+j = 228  and jplen = 236  zeta# is = 30
+zeta = 7b6
+before r[j] = 5b5
+before r[jplen] = 729
+after r[j] = 49c
+after r[jplen] = 6ce
+----------------
+j = 229  and jplen = 237  zeta# is = 30
+zeta = 7b6
+before r[j] = ad9
+before r[jplen] = 479
+after r[j] = a38
+after r[jplen] = b7a
+----------------
+j = 230  and jplen = 238  zeta# is = 30
+zeta = 7b6
+before r[j] = 656
+before r[jplen] = 454
+after r[j] = 67d
+after r[jplen] = 62f
+----------------
+j = 231  and jplen = 239  zeta# is = 30
+zeta = 7b6
+before r[j] = 986
+before r[jplen] = 9d0
+after r[j] = 394
+after r[jplen] = 277
+**************************************
+start = 240
+**************************************
+----------------
+j = 240  and jplen = 248  zeta# is = 31
+zeta = 335
+before r[j] = 1c6
+before r[jplen] = ae8
+after r[j] = 91e
+after r[jplen] = 76f
+----------------
+j = 241  and jplen = 249  zeta# is = 31
+zeta = 335
+before r[j] = 4fe
+before r[jplen] = 69b
+after r[j] = 574
+after r[jplen] = 488
+----------------
+j = 242  and jplen = 250  zeta# is = 31
+zeta = 335
+before r[j] = 8b2
+before r[jplen] = 63b
+after r[j] = 5f
+after r[jplen] = 404
+----------------
+j = 243  and jplen = 251  zeta# is = 31
+zeta = 335
+before r[j] = cb6
+before r[jplen] = 53e
+after r[j] = c41
+after r[jplen] = 2a
+----------------
+j = 244  and jplen = 252  zeta# is = 31
+zeta = 335
+before r[j] = a7e
+before r[jplen] = 717
+after r[j] = 581
+after r[jplen] = 27a
+----------------
+j = 245  and jplen = 253  zeta# is = 31
+zeta = 335
+before r[j] = 938
+before r[jplen] = 5fa
+after r[j] = 80
+after r[jplen] = 4ef
+----------------
+j = 246  and jplen = 254  zeta# is = 31
+zeta = 335
+before r[j] = b90
+before r[jplen] = 5df
+after r[j] = 748
+after r[jplen] = 2d7
+----------------
+j = 247  and jplen = 255  zeta# is = 31
+zeta = 335
+before r[j] = 6d5
+before r[jplen] = 201
+after r[j] = 8b
+after r[jplen] = 1e
+============================================================================
+len = 4
+============================================================================
+**************************************
+start = 0
+**************************************
+----------------
+j = 0  and jplen = 4  zeta# is = 32
+zeta = 121
+before r[j] = 54a
+before r[jplen] = b73
+after r[j] = b1f
+after r[jplen] = c76
+----------------
+j = 1  and jplen = 5  zeta# is = 32
+zeta = 121
+before r[j] = 2d3
+before r[jplen] = 275
+after r[j] = ab2
+after r[jplen] = 7f5
+----------------
+j = 2  and jplen = 6  zeta# is = 32
+zeta = 121
+before r[j] = 658
+before r[jplen] = cbb
+after r[j] = 558
+after r[jplen] = 758
+----------------
+j = 3  and jplen = 7  zeta# is = 32
+zeta = 121
+before r[j] = 607
+before r[jplen] = 29d
+after r[j] = 70a
+after r[jplen] = 504
+**************************************
+start = 8
+**************************************
+----------------
+j = 8  and jplen = 12  zeta# is = 33
+zeta = 14b
+before r[j] = a72
+before r[jplen] = 5ec
+after r[j] = 6ff
+after r[jplen] = e4
+----------------
+j = 9  and jplen = 13  zeta# is = 33
+zeta = 14b
+before r[j] = 151
+before r[jplen] = ab0
+after r[j] = 1d1
+after r[jplen] = d1
+----------------
+j = 10  and jplen = 14  zeta# is = 33
+zeta = 14b
+before r[j] = c90
+before r[jplen] = 161
+after r[j] = d7
+after r[jplen] = b48
+----------------
+j = 11  and jplen = 15  zeta# is = 33
+zeta = 14b
+before r[j] = 5ba
+before r[jplen] = c09
+after r[j] = a2b
+after r[jplen] = 149
+**************************************
+start = 16
+**************************************
+----------------
+j = 16  and jplen = 20  zeta# is = 34
+zeta = cb5
+before r[j] = 5e8
+before r[jplen] = 38c
+after r[j] = 96d
+after r[jplen] = 263
+----------------
+j = 17  and jplen = 21  zeta# is = 34
+zeta = cb5
+before r[j] = 2ff
+before r[jplen] = ca
+after r[j] = 80c
+after r[jplen] = af3
+----------------
+j = 18  and jplen = 22  zeta# is = 34
+zeta = cb5
+before r[j] = 3ae
+before r[jplen] = 34c
+after r[j] = 31
+after r[jplen] = 72b
+----------------
+j = 19  and jplen = 23  zeta# is = 34
+zeta = cb5
+before r[j] = 847
+before r[jplen] = 802
+after r[j] = ade
+after r[jplen] = 5b0
+**************************************
+start = 24
+**************************************
+----------------
+j = 24  and jplen = 28  zeta# is = 35
+zeta = 6dc
+before r[j] = 798
+before r[jplen] = b35
+after r[j] = c3b
+after r[jplen] = 2f5
+----------------
+j = 25  and jplen = 29  zeta# is = 35
+zeta = 6dc
+before r[j] = 690
+before r[jplen] = 16c
+after r[j] = 6a0
+after r[jplen] = 680
+----------------
+j = 26  and jplen = 30  zeta# is = 35
+zeta = 6dc
+before r[j] = 61f
+before r[jplen] = aa2
+after r[j] = 3bb
+after r[jplen] = 883
+----------------
+j = 27  and jplen = 31  zeta# is = 35
+zeta = 6dc
+before r[j] = 93c
+before r[jplen] = 106
+after r[j] = bda
+after r[jplen] = 69e
+**************************************
+start = 32
+**************************************
+----------------
+j = 32  and jplen = 36  zeta# is = 36
+zeta = 4ad
+before r[j] = 47a
+before r[jplen] = 94d
+after r[j] = 62b
+after r[jplen] = 2c9
+----------------
+j = 33  and jplen = 37  zeta# is = 36
+zeta = 4ad
+before r[j] = 45
+before r[jplen] = 516
+after r[j] = 24f
+after r[jplen] = b3c
+----------------
+j = 34  and jplen = 38  zeta# is = 36
+zeta = 4ad
+before r[j] = 6c5
+before r[jplen] = af0
+after r[j] = 406
+after r[jplen] = 984
+----------------
+j = 35  and jplen = 39  zeta# is = 36
+zeta = 4ad
+before r[j] = 71b
+before r[jplen] = 43f
+after r[j] = 527
+after r[jplen] = 90f
+**************************************
+start = 40
+**************************************
+----------------
+j = 40  and jplen = 44  zeta# is = 37
+zeta = 900
+before r[j] = 2d2
+before r[jplen] = a73
+after r[j] = 797
+after r[jplen] = b0e
+----------------
+j = 41  and jplen = 45  zeta# is = 37
+zeta = 900
+before r[j] = 6a7
+before r[jplen] = 3d
+after r[j] = 97d
+after r[jplen] = 3d1
+----------------
+j = 42  and jplen = 46  zeta# is = 37
+zeta = 900
+before r[j] = b2f
+before r[jplen] = 4ad
+after r[j] = 3f2
+after r[jplen] = 56b
+----------------
+j = 43  and jplen = 47  zeta# is = 37
+zeta = 900
+before r[j] = 8ad
+before r[jplen] = 3f
+after r[j] = 381
+after r[jplen] = d8
+**************************************
+start = 48
+**************************************
+----------------
+j = 48  and jplen = 52  zeta# is = 38
+zeta = 8e5
+before r[j] = ab7
+before r[jplen] = 44d
+after r[j] = ba7
+after r[jplen] = 9c7
+----------------
+j = 49  and jplen = 53  zeta# is = 38
+zeta = 8e5
+before r[j] = c6c
+before r[jplen] = 76e
+after r[j] = bbd
+after r[jplen] = 1a
+----------------
+j = 50  and jplen = 54  zeta# is = 38
+zeta = 8e5
+before r[j] = 5f6
+before r[jplen] = 871
+after r[j] = 745
+after r[jplen] = 4a7
+----------------
+j = 51  and jplen = 55  zeta# is = 38
+zeta = 8e5
+before r[j] = 6ae
+before r[jplen] = 688
+after r[j] = 1de
+after r[jplen] = b7e
+**************************************
+start = 56
+**************************************
+----------------
+j = 56  and jplen = 60  zeta# is = 39
+zeta = 807
+before r[j] = c68
+before r[jplen] = 299
+after r[j] = 5fc
+after r[jplen] = 5d3
+----------------
+j = 57  and jplen = 61  zeta# is = 39
+zeta = 807
+before r[j] = a5
+before r[jplen] = 5ca
+after r[j] = b99
+after r[jplen] = 2b2
+----------------
+j = 58  and jplen = 62  zeta# is = 39
+zeta = 807
+before r[j] = 60d
+before r[jplen] = 4cb
+after r[j] = ba5
+after r[jplen] = 75
+----------------
+j = 59  and jplen = 63  zeta# is = 39
+zeta = 807
+before r[j] = 663
+before r[jplen] = 3c1
+after r[j] = 959
+after r[jplen] = 36d
+**************************************
+start = 64
+**************************************
+----------------
+j = 64  and jplen = 68  zeta# is = 40
+zeta = 28a
+before r[j] = acc
+before r[jplen] = 534
+after r[j] = bd0
+after r[jplen] = 9c8
+----------------
+j = 65  and jplen = 69  zeta# is = 40
+zeta = 28a
+before r[j] = c95
+before r[jplen] = 139
+after r[j] = 111
+after r[jplen] = b18
+----------------
+j = 66  and jplen = 70  zeta# is = 40
+zeta = 28a
+before r[j] = 1b0
+before r[jplen] = a91
+after r[j] = 3ca
+after r[jplen] = c97
+----------------
+j = 67  and jplen = 71  zeta# is = 40
+zeta = 28a
+before r[j] = 55a
+before r[jplen] = 475
+after r[j] = 28d
+after r[jplen] = 827
+**************************************
+start = 72
+**************************************
+----------------
+j = 72  and jplen = 76  zeta# is = 41
+zeta = 7b9
+before r[j] = ad4
+before r[jplen] = bb4
+after r[j] = f4
+after r[jplen] = 7b3
+----------------
+j = 73  and jplen = 77  zeta# is = 41
+zeta = 7b9
+before r[j] = a9
+before r[jplen] = a84
+after r[j] = 9cf
+after r[jplen] = 484
+----------------
+j = 74  and jplen = 78  zeta# is = 41
+zeta = 7b9
+before r[j] = 509
+before r[jplen] = 336
+after r[j] = 727
+after r[jplen] = 2eb
+----------------
+j = 75  and jplen = 79  zeta# is = 41
+zeta = 7b9
+before r[j] = 9a9
+before r[jplen] = 33
+after r[j] = 65
+after r[jplen] = 5ec
+**************************************
+start = 80
+**************************************
+----------------
+j = 80  and jplen = 84  zeta# is = 42
+zeta = 9d1
+before r[j] = b6f
+before r[jplen] = 719
+after r[j] = 67c
+after r[jplen] = 361
+----------------
+j = 81  and jplen = 85  zeta# is = 42
+zeta = 9d1
+before r[j] = a5c
+before r[jplen] = 867
+after r[j] = 71b
+after r[jplen] = 9c
+----------------
+j = 82  and jplen = 86  zeta# is = 42
+zeta = 9d1
+before r[j] = 508
+before r[jplen] = 471
+after r[j] = 8ef
+after r[jplen] = 121
+----------------
+j = 83  and jplen = 87  zeta# is = 42
+zeta = 9d1
+before r[j] = 68b
+before r[jplen] = 7bb
+after r[j] = 560
+after r[jplen] = 7b6
+**************************************
+start = 88
+**************************************
+----------------
+j = 88  and jplen = 92  zeta# is = 43
+zeta = 278
+before r[j] = 7d9
+before r[jplen] = 6a6
+after r[j] = 966
+after r[jplen] = 64c
+----------------
+j = 89  and jplen = 93  zeta# is = 43
+zeta = 278
+before r[j] = 4ac
+before r[jplen] = 196
+after r[j] = 5af
+after r[jplen] = 3a9
+----------------
+j = 90  and jplen = 94  zeta# is = 43
+zeta = 278
+before r[j] = 51a
+before r[jplen] = 72d
+after r[j] = 1d5
+after r[jplen] = 85f
+----------------
+j = 91  and jplen = 95  zeta# is = 43
+zeta = 278
+before r[j] = 626
+before r[jplen] = 357
+after r[j] = a4c
+after r[jplen] = 200
+**************************************
+start = 96
+**************************************
+----------------
+j = 96  and jplen = 100  zeta# is = 44
+zeta = b31
+before r[j] = 8a5
+before r[jplen] = 146
+after r[j] = 2f2
+after r[jplen] = 157
+----------------
+j = 97  and jplen = 101  zeta# is = 44
+zeta = b31
+before r[j] = 9d3
+before r[jplen] = b4a
+after r[j] = c46
+after r[jplen] = 760
+----------------
+j = 98  and jplen = 102  zeta# is = 44
+zeta = b31
+before r[j] = 5f7
+before r[jplen] = 227
+after r[j] = 894
+after r[jplen] = 35a
+----------------
+j = 99  and jplen = 103  zeta# is = 44
+zeta = b31
+before r[j] = ec
+before r[jplen] = 122
+after r[j] = 875
+after r[jplen] = 664
+**************************************
+start = 104
+**************************************
+----------------
+j = 104  and jplen = 108  zeta# is = 45
+zeta = 21
+before r[j] = a5b
+before r[jplen] = 92c
+after r[j] = ef
+after r[jplen] = 6c6
+----------------
+j = 105  and jplen = 109  zeta# is = 45
+zeta = 21
+before r[j] = 1bb
+before r[jplen] = b71
+after r[j] = 22f
+after r[jplen] = 147
+----------------
+j = 106  and jplen = 110  zeta# is = 45
+zeta = 21
+before r[j] = 8a6
+before r[jplen] = 526
+after r[j] = 97f
+after r[jplen] = 7cd
+----------------
+j = 107  and jplen = 111  zeta# is = 45
+zeta = 21
+before r[j] = 88d
+before r[jplen] = dd
+after r[j] = b08
+after r[jplen] = 612
+**************************************
+start = 112
+**************************************
+----------------
+j = 112  and jplen = 116  zeta# is = 46
+zeta = 528
+before r[j] = cea
+before r[jplen] = 2af
+after r[j] = 531
+after r[jplen] = 7a2
+----------------
+j = 113  and jplen = 117  zeta# is = 46
+zeta = 528
+before r[j] = c89
+before r[jplen] = afa
+after r[j] = 23e
+after r[jplen] = 9d3
+----------------
+j = 114  and jplen = 118  zeta# is = 46
+zeta = 528
+before r[j] = 748
+before r[jplen] = c68
+after r[j] = b9d
+after r[jplen] = 2f3
+----------------
+j = 115  and jplen = 119  zeta# is = 46
+zeta = 528
+before r[j] = 6b7
+before r[jplen] = 7bc
+after r[j] = 806
+after r[jplen] = 568
+**************************************
+start = 120
+**************************************
+----------------
+j = 120  and jplen = 124  zeta# is = 47
+zeta = 77b
+before r[j] = c9a
+before r[jplen] = c93
+after r[j] = 8ff
+after r[jplen] = 334
+----------------
+j = 121  and jplen = 125  zeta# is = 47
+zeta = 77b
+before r[j] = 4b7
+before r[jplen] = 6f
+after r[j] = 2cc
+after r[jplen] = 6a2
+----------------
+j = 122  and jplen = 126  zeta# is = 47
+zeta = 77b
+before r[j] = 3a3
+before r[jplen] = 6c1
+after r[j] = b7c
+after r[jplen] = 8cb
+----------------
+j = 123  and jplen = 127  zeta# is = 47
+zeta = 77b
+before r[j] = 6c6
+before r[jplen] = 4de
+after r[j] = 3a3
+after r[jplen] = 9e9
+**************************************
+start = 128
+**************************************
+----------------
+j = 128  and jplen = 132  zeta# is = 48
+zeta = 90f
+before r[j] = c08
+before r[jplen] = 1a1
+after r[j] = 554
+after r[jplen] = 5bb
+----------------
+j = 129  and jplen = 133  zeta# is = 48
+zeta = 90f
+before r[j] = b08
+before r[jplen] = 96d
+after r[j] = 9da
+after r[jplen] = c36
+----------------
+j = 130  and jplen = 134  zeta# is = 48
+zeta = 90f
+before r[j] = 46e
+before r[jplen] = 6a8
+after r[j] = 4a3
+after r[jplen] = 439
+----------------
+j = 131  and jplen = 135  zeta# is = 48
+zeta = 90f
+before r[j] = 643
+before r[jplen] = cd1
+after r[j] = 94
+after r[jplen] = bf2
+**************************************
+start = 136
+**************************************
+----------------
+j = 136  and jplen = 140  zeta# is = 49
+zeta = 59b
+before r[j] = 1bd
+before r[jplen] = 51e
+after r[j] = ab3
+after r[jplen] = 5c8
+----------------
+j = 137  and jplen = 141  zeta# is = 49
+zeta = 59b
+before r[j] = 89e
+before r[jplen] = 51c
+after r[j] = 65e
+after r[jplen] = ade
+----------------
+j = 138  and jplen = 142  zeta# is = 49
+zeta = 59b
+before r[j] = 4ba
+before r[jplen] = 648
+after r[j] = 69d
+after r[jplen] = 2d7
+----------------
+j = 139  and jplen = 143  zeta# is = 49
+zeta = 59b
+before r[j] = 21
+before r[jplen] = 541
+after r[j] = a39
+after r[jplen] = 30a
+**************************************
+start = 144
+**************************************
+----------------
+j = 144  and jplen = 148  zeta# is = 50
+zeta = 327
+before r[j] = b82
+before r[jplen] = 2b8
+after r[j] = 7e1
+after r[jplen] = 222
+----------------
+j = 145  and jplen = 149  zeta# is = 50
+zeta = 327
+before r[j] = a07
+before r[jplen] = 5ba
+after r[j] = 1f9
+after r[jplen] = 514
+----------------
+j = 146  and jplen = 150  zeta# is = 50
+zeta = 327
+before r[j] = 16a
+before r[jplen] = 62a
+after r[j] = 852
+after r[jplen] = 783
+----------------
+j = 147  and jplen = 151  zeta# is = 50
+zeta = 327
+before r[j] = 566
+before r[jplen] = 918
+after r[j] = 9da
+after r[jplen] = f2
+**************************************
+start = 152
+**************************************
+----------------
+j = 152  and jplen = 156  zeta# is = 51
+zeta = 1c4
+before r[j] = 301
+before r[jplen] = 488
+after r[j] = 984
+after r[jplen] = 97f
+----------------
+j = 153  and jplen = 157  zeta# is = 51
+zeta = 1c4
+before r[j] = 61e
+before r[jplen] = 6bf
+after r[j] = c70
+after r[jplen] = ccd
+----------------
+j = 154  and jplen = 158  zeta# is = 51
+zeta = 1c4
+before r[j] = d7
+before r[jplen] = 1f7
+after r[j] = 4af
+after r[jplen] = a00
+----------------
+j = 155  and jplen = 159  zeta# is = 51
+zeta = 1c4
+before r[j] = 910
+before r[jplen] = 1f8
+after r[j] = 1ab
+after r[jplen] = 374
+**************************************
+start = 160
+**************************************
+----------------
+j = 160  and jplen = 164  zeta# is = 52
+zeta = 59e
+before r[j] = b4a
+before r[jplen] = ac1
+after r[j] = c2
+after r[jplen] = 8d1
+----------------
+j = 161  and jplen = 165  zeta# is = 52
+zeta = 59e
+before r[j] = 17a
+before r[jplen] = 535
+after r[j] = bf1
+after r[jplen] = 404
+----------------
+j = 162  and jplen = 166  zeta# is = 52
+zeta = 59e
+before r[j] = a65
+before r[jplen] = c6e
+after r[j] = 3ea
+after r[jplen] = 3df
+----------------
+j = 163  and jplen = 167  zeta# is = 52
+zeta = 59e
+before r[j] = 57
+before r[jplen] = 192
+after r[j] = 8c6
+after r[jplen] = 4e9
+**************************************
+start = 168
+**************************************
+----------------
+j = 168  and jplen = 172  zeta# is = 53
+zeta = b34
+before r[j] = b0e
+before r[jplen] = b5f
+after r[j] = 98e
+after r[jplen] = c8e
+----------------
+j = 169  and jplen = 173  zeta# is = 53
+zeta = b34
+before r[j] = 8ad
+before r[jplen] = 38b
+after r[j] = db
+after r[jplen] = 37e
+----------------
+j = 170  and jplen = 174  zeta# is = 53
+zeta = b34
+before r[j] = a9
+before r[jplen] = aed
+after r[j] = 964
+after r[jplen] = 4ef
+----------------
+j = 171  and jplen = 175  zeta# is = 53
+zeta = b34
+before r[j] = 400
+before r[jplen] = 1b5
+after r[j] = a4c
+after r[jplen] = ab5
+**************************************
+start = 176
+**************************************
+----------------
+j = 176  and jplen = 180  zeta# is = 54
+zeta = 5fe
+before r[j] = 31e
+before r[jplen] = 691
+after r[j] = af6
+after r[jplen] = 847
+----------------
+j = 177  and jplen = 181  zeta# is = 54
+zeta = 5fe
+before r[j] = 417
+before r[jplen] = 3aa
+after r[j] = 713
+after r[jplen] = 11b
+----------------
+j = 178  and jplen = 182  zeta# is = 54
+zeta = 5fe
+before r[j] = 51
+before r[jplen] = 2a8
+after r[j] = 4c8
+after r[jplen] = 8db
+----------------
+j = 179  and jplen = 183  zeta# is = 54
+zeta = 5fe
+before r[j] = b00
+before r[jplen] = 4fe
+after r[j] = 9b7
+after r[jplen] = c49
+**************************************
+start = 184
+**************************************
+----------------
+j = 184  and jplen = 188  zeta# is = 55
+zeta = 962
+before r[j] = 89b
+before r[jplen] = 721
+after r[j] = 618
+after r[jplen] = b1e
+----------------
+j = 185  and jplen = 189  zeta# is = 55
+zeta = 962
+before r[j] = 53f
+before r[jplen] = cd2
+after r[j] = 663
+after r[jplen] = 41b
+----------------
+j = 186  and jplen = 190  zeta# is = 55
+zeta = 962
+before r[j] = bce
+before r[jplen] = a1d
+after r[j] = c9c
+after r[jplen] = b00
+----------------
+j = 187  and jplen = 191  zeta# is = 55
+zeta = 962
+before r[j] = 21
+before r[jplen] = b51
+after r[j] = 3f9
+after r[jplen] = 94a
+**************************************
+start = 192
+**************************************
+----------------
+j = 192  and jplen = 196  zeta# is = 56
+zeta = a57
+before r[j] = 82c
+before r[jplen] = b03
+after r[j] = 16f
+after r[jplen] = 1e8
+----------------
+j = 193  and jplen = 197  zeta# is = 56
+zeta = a57
+before r[j] = cc0
+before r[jplen] = 3b
+after r[j] = b9e
+after r[jplen] = e1
+----------------
+j = 194  and jplen = 198  zeta# is = 56
+zeta = a57
+before r[j] = 1f
+before r[jplen] = 3c4
+after r[j] = 6bd
+after r[jplen] = 682
+----------------
+j = 195  and jplen = 199  zeta# is = 56
+zeta = a57
+before r[j] = 838
+before r[jplen] = 6d
+after r[j] = 3ec
+after r[jplen] = c84
+**************************************
+start = 200
+**************************************
+----------------
+j = 200  and jplen = 204  zeta# is = 57
+zeta = a39
+before r[j] = 73c
+before r[jplen] = 144
+after r[j] = 361
+after r[jplen] = b17
+----------------
+j = 201  and jplen = 205  zeta# is = 57
+zeta = a39
+before r[j] = 686
+before r[jplen] = 814
+after r[j] = 2a0
+after r[jplen] = a6c
+----------------
+j = 202  and jplen = 206  zeta# is = 57
+zeta = a39
+before r[j] = 16a
+before r[jplen] = 28c
+after r[j] = 896
+after r[jplen] = 73f
+----------------
+j = 203  and jplen = 207  zeta# is = 57
+zeta = a39
+before r[j] = 7b3
+before r[jplen] = af8
+after r[j] = 4b
+after r[jplen] = 21a
+**************************************
+start = 208
+**************************************
+----------------
+j = 208  and jplen = 212  zeta# is = 58
+zeta = 5c9
+before r[j] = ed
+before r[jplen] = ab8
+after r[j] = aa1
+after r[jplen] = 43a
+----------------
+j = 209  and jplen = 213  zeta# is = 58
+zeta = 5c9
+before r[j] = cea
+before r[jplen] = 981
+after r[j] = 4f8
+after r[jplen] = 7db
+----------------
+j = 210  and jplen = 214  zeta# is = 58
+zeta = 5c9
+before r[j] = 380
+before r[jplen] = 45c
+after r[j] = 9cc
+after r[jplen] = a35
+----------------
+j = 211  and jplen = 215  zeta# is = 58
+zeta = 5c9
+before r[j] = 18
+before r[jplen] = 303
+after r[j] = 1c
+after r[jplen] = 14
+**************************************
+start = 216
+**************************************
+----------------
+j = 216  and jplen = 220  zeta# is = 59
+zeta = 288
+before r[j] = 62c
+before r[jplen] = 799
+after r[j] = f9
+after r[jplen] = b5f
+----------------
+j = 217  and jplen = 221  zeta# is = 59
+zeta = 288
+before r[j] = 424
+before r[jplen] = 1ec
+after r[j] = 124
+after r[jplen] = 724
+----------------
+j = 218  and jplen = 222  zeta# is = 59
+zeta = 288
+before r[j] = 84f
+before r[jplen] = a3a
+after r[j] = 321
+after r[jplen] = 7c
+----------------
+j = 219  and jplen = 223  zeta# is = 59
+zeta = 288
+before r[j] = 3fe
+before r[jplen] = 525
+after r[j] = 8a6
+after r[jplen] = c57
+**************************************
+start = 224
+**************************************
+----------------
+j = 224  and jplen = 228  zeta# is = 60
+zeta = 9aa
+before r[j] = 231
+before r[jplen] = 49c
+after r[j] = 15c
+after r[jplen] = 306
+----------------
+j = 225  and jplen = 229  zeta# is = 60
+zeta = 9aa
+before r[j] = ad5
+before r[jplen] = a38
+after r[j] = c6d
+after r[jplen] = 93d
+----------------
+j = 226  and jplen = 230  zeta# is = 60
+zeta = 9aa
+before r[j] = 8d1
+before r[jplen] = 67d
+after r[j] = 100
+after r[jplen] = 3a1
+----------------
+j = 227  and jplen = 231  zeta# is = 60
+zeta = 9aa
+before r[j] = 26c
+before r[jplen] = 394
+after r[j] = c0c
+after r[jplen] = 5cd
+**************************************
+start = 232
+**************************************
+----------------
+j = 232  and jplen = 236  zeta# is = 61
+zeta = c26
+before r[j] = ceb
+before r[jplen] = 6ce
+after r[j] = 523
+after r[jplen] = 7b2
+----------------
+j = 233  and jplen = 237  zeta# is = 61
+zeta = c26
+before r[j] = 7f5
+before r[jplen] = b7a
+after r[j] = 458
+after r[jplen] = b92
+----------------
+j = 234  and jplen = 238  zeta# is = 61
+zeta = c26
+before r[j] = 463
+before r[jplen] = 62f
+after r[j] = 296
+after r[jplen] = 630
+----------------
+j = 235  and jplen = 239  zeta# is = 61
+zeta = c26
+before r[j] = 3af
+before r[jplen] = 277
+after r[j] = a0c
+after r[jplen] = a53
+**************************************
+start = 240
+**************************************
+----------------
+j = 240  and jplen = 244  zeta# is = 62
+zeta = 4cb
+before r[j] = 91e
+before r[jplen] = 581
+after r[j] = 61
+after r[jplen] = 4da
+----------------
+j = 241  and jplen = 245  zeta# is = 62
+zeta = 4cb
+before r[j] = 574
+before r[jplen] = 80
+after r[j] = 7c5
+after r[jplen] = 323
+----------------
+j = 242  and jplen = 246  zeta# is = 62
+zeta = 4cb
+before r[j] = 5f
+before r[jplen] = 748
+after r[j] = c8
+after r[jplen] = cf7
+----------------
+j = 243  and jplen = 247  zeta# is = 62
+zeta = 4cb
+before r[j] = c41
+before r[jplen] = 8b
+after r[j] = 246
+after r[jplen] = 93b
+**************************************
+start = 248
+**************************************
+----------------
+j = 248  and jplen = 252  zeta# is = 63
+zeta = 38e
+before r[j] = 76f
+before r[jplen] = 27a
+after r[j] = b6e
+after r[jplen] = 370
+----------------
+j = 249  and jplen = 253  zeta# is = 63
+zeta = 38e
+before r[j] = 488
+before r[jplen] = 4ef
+after r[j] = 7c1
+after r[jplen] = 14f
+----------------
+j = 250  and jplen = 254  zeta# is = 63
+zeta = 38e
+before r[j] = 404
+before r[jplen] = 2d7
+after r[j] = 7f
+after r[jplen] = 789
+----------------
+j = 251  and jplen = 255  zeta# is = 63
+zeta = 38e
+before r[j] = 2a
+before r[jplen] = 1e
+after r[j] = 2c6
+after r[jplen] = a8f
+============================================================================
+len = 2
+============================================================================
+**************************************
+start = 0
+**************************************
+----------------
+j = 0  and jplen = 2  zeta# is = 64
+zeta = 11
+before r[j] = b1f
+before r[jplen] = 558
+after r[j] = af0
+after r[jplen] = b4e
+----------------
+j = 1  and jplen = 3  zeta# is = 64
+zeta = 11
+before r[j] = ab2
+before r[jplen] = 70a
+after r[j] = 52
+after r[jplen] = 811
+**************************************
+start = 4
+**************************************
+----------------
+j = 4  and jplen = 6  zeta# is = 65
+zeta = ac9
+before r[j] = c76
+before r[jplen] = 758
+after r[j] = 276
+after r[jplen] = 975
+----------------
+j = 5  and jplen = 7  zeta# is = 65
+zeta = ac9
+before r[j] = 7f5
+before r[jplen] = 504
+after r[j] = 6f0
+after r[jplen] = 8fa
+**************************************
+start = 8
+**************************************
+----------------
+j = 8  and jplen = 10  zeta# is = 66
+zeta = 247
+before r[j] = 6ff
+before r[jplen] = d7
+after r[j] = 27a
+after r[jplen] = b84
+----------------
+j = 9  and jplen = 11  zeta# is = 66
+zeta = 247
+before r[j] = 1d1
+before r[jplen] = a2b
+after r[j] = cf7
+after r[jplen] = 3ac
+**************************************
+start = 12
+**************************************
+----------------
+j = 12  and jplen = 14  zeta# is = 67
+zeta = a59
+before r[j] = e4
+before r[jplen] = b48
+after r[j] = 1f2
+after r[jplen] = cd7
+----------------
+j = 13  and jplen = 15  zeta# is = 67
+zeta = a59
+before r[j] = d1
+before r[jplen] = 149
+after r[j] = b2d
+after r[jplen] = 376
+**************************************
+start = 16
+**************************************
+----------------
+j = 16  and jplen = 18  zeta# is = 68
+zeta = 665
+before r[j] = 96d
+before r[jplen] = 31
+after r[j] = aaa
+after r[jplen] = 830
+----------------
+j = 17  and jplen = 19  zeta# is = 68
+zeta = 665
+before r[j] = 80c
+before r[jplen] = ade
+after r[j] = 84a
+after r[jplen] = 7ce
+**************************************
+start = 20
+**************************************
+----------------
+j = 20  and jplen = 22  zeta# is = 69
+zeta = 2d3
+before r[j] = 263
+before r[jplen] = 72b
+after r[j] = 946
+after r[jplen] = 881
+----------------
+j = 21  and jplen = 23  zeta# is = 69
+zeta = 2d3
+before r[j] = af3
+before r[jplen] = 5b0
+after r[j] = c6
+after r[jplen] = 81f
+**************************************
+start = 24
+**************************************
+----------------
+j = 24  and jplen = 26  zeta# is = 70
+zeta = 8f0
+before r[j] = c3b
+before r[jplen] = 3bb
+after r[j] = 3fa
+after r[jplen] = 77b
+----------------
+j = 25  and jplen = 27  zeta# is = 70
+zeta = 8f0
+before r[j] = 6a0
+before r[jplen] = bda
+after r[j] = 9db
+after r[jplen] = 365
+**************************************
+start = 28
+**************************************
+----------------
+j = 28  and jplen = 30  zeta# is = 71
+zeta = 44c
+before r[j] = 2f5
+before r[jplen] = 883
+after r[j] = 309
+after r[jplen] = 2e1
+----------------
+j = 29  and jplen = 31  zeta# is = 71
+zeta = 44c
+before r[j] = 680
+before r[jplen] = 69e
+after r[j] = 338
+after r[jplen] = 9c8
+**************************************
+start = 32
+**************************************
+----------------
+j = 32  and jplen = 34  zeta# is = 72
+zeta = 581
+before r[j] = 62b
+before r[jplen] = 406
+after r[j] = 57d
+after r[jplen] = 6d9
+----------------
+j = 33  and jplen = 35  zeta# is = 72
+zeta = 581
+before r[j] = 24f
+before r[jplen] = 527
+after r[j] = 5c8
+after r[jplen] = bd7
+**************************************
+start = 36
+**************************************
+----------------
+j = 36  and jplen = 38  zeta# is = 73
+zeta = a66
+before r[j] = 2c9
+before r[jplen] = 984
+after r[j] = 1c5
+after r[jplen] = 3cd
+----------------
+j = 37  and jplen = 39  zeta# is = 73
+zeta = a66
+before r[j] = b3c
+before r[jplen] = 90f
+after r[j] = 2f7
+after r[jplen] = 680
+**************************************
+start = 40
+**************************************
+----------------
+j = 40  and jplen = 42  zeta# is = 74
+zeta = cd1
+before r[j] = 797
+before r[jplen] = 3f2
+after r[j] = 45
+after r[jplen] = 1e8
+----------------
+j = 41  and jplen = 43  zeta# is = 74
+zeta = cd1
+before r[j] = 97d
+before r[jplen] = 381
+after r[j] = a5a
+after r[jplen] = 8a0
+**************************************
+start = 44
+**************************************
+----------------
+j = 44  and jplen = 46  zeta# is = 75
+zeta = e9
+before r[j] = b0e
+before r[jplen] = 56b
+after r[j] = c10
+after r[jplen] = a0c
+----------------
+j = 45  and jplen = 47  zeta# is = 75
+zeta = e9
+before r[j] = 3d1
+before r[jplen] = d8
+after r[j] = 55a
+after r[jplen] = 248
+**************************************
+start = 48
+**************************************
+----------------
+j = 48  and jplen = 50  zeta# is = 76
+zeta = 2f4
+before r[j] = ba7
+before r[jplen] = 745
+after r[j] = 6c4
+after r[jplen] = 389
+----------------
+j = 49  and jplen = 51  zeta# is = 76
+zeta = 2f4
+before r[j] = bbd
+before r[jplen] = 1de
+after r[j] = 5e8
+after r[jplen] = 491
+**************************************
+start = 52
+**************************************
+----------------
+j = 52  and jplen = 54  zeta# is = 77
+zeta = 86c
+before r[j] = 9c7
+before r[jplen] = 4a7
+after r[j] = 137
+after r[jplen] = 556
+----------------
+j = 53  and jplen = 55  zeta# is = 77
+zeta = 86c
+before r[j] = 1a
+before r[jplen] = b7e
+after r[j] = 4d1
+after r[jplen] = 864
+**************************************
+start = 56
+**************************************
+----------------
+j = 56  and jplen = 58  zeta# is = 78
+zeta = bc7
+before r[j] = 5fc
+before r[jplen] = ba5
+after r[j] = 3b3
+after r[jplen] = 845
+----------------
+j = 57  and jplen = 59  zeta# is = 78
+zeta = bc7
+before r[j] = b99
+before r[jplen] = 959
+after r[j] = 250
+after r[jplen] = 7e1
+**************************************
+start = 60
+**************************************
+----------------
+j = 60  and jplen = 62  zeta# is = 79
+zeta = bea
+before r[j] = 5d3
+before r[jplen] = 75
+after r[j] = 85a
+after r[jplen] = 34c
+----------------
+j = 61  and jplen = 63  zeta# is = 79
+zeta = bea
+before r[j] = 2b2
+before r[jplen] = 36d
+after r[j] = 931
+after r[jplen] = 934
+**************************************
+start = 64
+**************************************
+----------------
+j = 64  and jplen = 66  zeta# is = 80
+zeta = 6a7
+before r[j] = bd0
+before r[jplen] = 3ca
+after r[j] = 1a5
+after r[jplen] = 8fa
+----------------
+j = 65  and jplen = 67  zeta# is = 80
+zeta = 6a7
+before r[j] = 111
+before r[jplen] = 28d
+after r[j] = 1be
+after r[jplen] = 64
+**************************************
+start = 68
+**************************************
+----------------
+j = 68  and jplen = 70  zeta# is = 81
+zeta = 673
+before r[j] = 9c8
+before r[jplen] = c97
+after r[j] = 25e
+after r[jplen] = 431
+----------------
+j = 69  and jplen = 71  zeta# is = 81
+zeta = 673
+before r[j] = b18
+before r[jplen] = 827
+after r[j] = b92
+after r[jplen] = a9e
+**************************************
+start = 72
+**************************************
+----------------
+j = 72  and jplen = 74  zeta# is = 82
+zeta = ae5
+before r[j] = f4
+before r[jplen] = 727
+after r[j] = d9
+after r[jplen] = 10f
+----------------
+j = 73  and jplen = 75  zeta# is = 82
+zeta = ae5
+before r[j] = 9cf
+before r[jplen] = 65
+after r[j] = 4d3
+after r[jplen] = 1ca
+**************************************
+start = 76
+**************************************
+----------------
+j = 76  and jplen = 78  zeta# is = 83
+zeta = 6fd
+before r[j] = 7b3
+before r[jplen] = 2eb
+after r[j] = 60
+after r[jplen] = 205
+----------------
+j = 77  and jplen = 79  zeta# is = 83
+zeta = 6fd
+before r[j] = 484
+before r[jplen] = 5ec
+after r[j] = 91
+after r[jplen] = 877
+**************************************
+start = 80
+**************************************
+----------------
+j = 80  and jplen = 82  zeta# is = 84
+zeta = 737
+before r[j] = 67c
+before r[jplen] = 8ef
+after r[j] = 4e0
+after r[jplen] = 818
+----------------
+j = 81  and jplen = 83  zeta# is = 84
+zeta = 737
+before r[j] = 71b
+before r[jplen] = 560
+after r[j] = cc0
+after r[jplen] = 176
+**************************************
+start = 84
+**************************************
+----------------
+j = 84  and jplen = 86  zeta# is = 85
+zeta = 3b8
+before r[j] = 361
+before r[jplen] = 121
+after r[j] = bc7
+after r[jplen] = 7fc
+----------------
+j = 85  and jplen = 87  zeta# is = 85
+zeta = 3b8
+before r[j] = 9c
+before r[jplen] = 7b6
+after r[j] = 738
+after r[jplen] = 701
+**************************************
+start = 88
+**************************************
+----------------
+j = 88  and jplen = 90  zeta# is = 86
+zeta = 5b5
+before r[j] = 966
+before r[jplen] = 1d5
+after r[j] = 731
+after r[jplen] = b9b
+----------------
+j = 89  and jplen = 91  zeta# is = 86
+zeta = 5b5
+before r[j] = 5af
+before r[jplen] = a4c
+after r[j] = 3e6
+after r[jplen] = 778
+**************************************
+start = 92
+**************************************
+----------------
+j = 92  and jplen = 94  zeta# is = 87
+zeta = a7f
+before r[j] = 64c
+before r[jplen] = 85f
+after r[j] = 2ab
+after r[jplen] = 9ed
+----------------
+j = 93  and jplen = 95  zeta# is = 87
+zeta = a7f
+before r[j] = 3a9
+before r[jplen] = 200
+after r[j] = 70c
+after r[jplen] = 46
+**************************************
+start = 96
+**************************************
+----------------
+j = 96  and jplen = 98  zeta# is = 88
+zeta = 3ab
+before r[j] = 2f2
+before r[jplen] = 894
+after r[j] = 863
+after r[jplen] = a82
+----------------
+j = 97  and jplen = 99  zeta# is = 88
+zeta = 3ab
+before r[j] = c46
+before r[jplen] = 875
+after r[j] = 80a
+after r[jplen] = 381
+**************************************
+start = 100
+**************************************
+----------------
+j = 100  and jplen = 102  zeta# is = 89
+zeta = 904
+before r[j] = 157
+before r[jplen] = 35a
+after r[j] = c6d
+after r[jplen] = 342
+----------------
+j = 101  and jplen = 103  zeta# is = 89
+zeta = 904
+before r[j] = 760
+before r[jplen] = 664
+after r[j] = a82
+after r[jplen] = 43e
+**************************************
+start = 104
+**************************************
+----------------
+j = 104  and jplen = 106  zeta# is = 90
+zeta = 985
+before r[j] = ef
+before r[jplen] = 97f
+after r[j] = 8f7
+after r[jplen] = 5e8
+----------------
+j = 105  and jplen = 107  zeta# is = 90
+zeta = 985
+before r[j] = 22f
+before r[jplen] = b08
+after r[j] = 644
+after r[jplen] = b1b
+**************************************
+start = 108
+**************************************
+----------------
+j = 108  and jplen = 110  zeta# is = 91
+zeta = 954
+before r[j] = 6c6
+before r[jplen] = 7cd
+after r[j] = 71
+after r[jplen] = 1a
+----------------
+j = 109  and jplen = 111  zeta# is = 91
+zeta = 954
+before r[j] = 147
+before r[jplen] = 612
+after r[j] = ad5
+after r[jplen] = 4ba
+**************************************
+start = 112
+**************************************
+----------------
+j = 112  and jplen = 114  zeta# is = 92
+zeta = 2dd
+before r[j] = 531
+before r[jplen] = b9d
+after r[j] = 2b
+after r[jplen] = a37
+----------------
+j = 113  and jplen = 115  zeta# is = 92
+zeta = 2dd
+before r[j] = 23e
+before r[jplen] = 806
+after r[j] = 5a8
+after r[jplen] = bd5
+**************************************
+start = 116
+**************************************
+----------------
+j = 116  and jplen = 118  zeta# is = 93
+zeta = 921
+before r[j] = 7a2
+before r[jplen] = 2f3
+after r[j] = 7e3
+after r[jplen] = 761
+----------------
+j = 117  and jplen = 119  zeta# is = 93
+zeta = 921
+before r[j] = 9d3
+before r[jplen] = 568
+after r[j] = 46f
+after r[jplen] = 236
+**************************************
+start = 120
+**************************************
+----------------
+j = 120  and jplen = 122  zeta# is = 94
+zeta = 10c
+before r[j] = 8ff
+before r[jplen] = b7c
+after r[j] = 4e2
+after r[jplen] = 1b
+----------------
+j = 121  and jplen = 123  zeta# is = 94
+zeta = 10c
+before r[j] = 2cc
+before r[jplen] = 3a3
+after r[j] = 225
+after r[jplen] = 373
+**************************************
+start = 124
+**************************************
+----------------
+j = 124  and jplen = 126  zeta# is = 95
+zeta = 281
+before r[j] = 334
+before r[jplen] = 8cb
+after r[j] = 8ce
+after r[jplen] = a9b
+----------------
+j = 125  and jplen = 127  zeta# is = 95
+zeta = 281
+before r[j] = 6a2
+before r[jplen] = 9e9
+after r[j] = 22
+after r[jplen] = 21
+**************************************
+start = 128
+**************************************
+----------------
+j = 128  and jplen = 130  zeta# is = 96
+zeta = 630
+before r[j] = 554
+before r[jplen] = 4a3
+after r[j] = 2af
+after r[jplen] = 7f9
+----------------
+j = 129  and jplen = 131  zeta# is = 96
+zeta = 630
+before r[j] = 9da
+before r[jplen] = 94
+after r[j] = 253
+after r[jplen] = 460
+**************************************
+start = 132
+**************************************
+----------------
+j = 132  and jplen = 134  zeta# is = 97
+zeta = 8fa
+before r[j] = 5bb
+before r[jplen] = 439
+after r[j] = 87b
+after r[jplen] = 2fb
+----------------
+j = 133  and jplen = 135  zeta# is = 97
+zeta = 8fa
+before r[j] = c36
+before r[jplen] = bf2
+after r[j] = b4b
+after r[jplen] = 20
+**************************************
+start = 136
+**************************************
+----------------
+j = 136  and jplen = 138  zeta# is = 98
+zeta = 7f5
+before r[j] = ab3
+before r[jplen] = 69d
+after r[j] = 9e8
+after r[jplen] = b7e
+----------------
+j = 137  and jplen = 139  zeta# is = 98
+zeta = 7f5
+before r[j] = 65e
+before r[jplen] = a39
+after r[j] = aaa
+after r[jplen] = 212
+**************************************
+start = 140
+**************************************
+----------------
+j = 140  and jplen = 142  zeta# is = 99
+zeta = c94
+before r[j] = 5c8
+before r[jplen] = 2d7
+after r[j] = 855
+after r[jplen] = 33b
+----------------
+j = 141  and jplen = 143  zeta# is = 99
+zeta = c94
+before r[j] = ade
+before r[jplen] = 30a
+after r[j] = 4b5
+after r[jplen] = 406
+**************************************
+start = 144
+**************************************
+----------------
+j = 144  and jplen = 146  zeta# is = 100
+zeta = 177
+before r[j] = 7e1
+before r[jplen] = 852
+after r[j] = 70f
+after r[jplen] = 8b3
+----------------
+j = 145  and jplen = 147  zeta# is = 100
+zeta = 177
+before r[j] = 1f9
+before r[jplen] = 9da
+after r[j] = 333
+after r[jplen] = bf
+**************************************
+start = 148
+**************************************
+----------------
+j = 148  and jplen = 150  zeta# is = 101
+zeta = 9f5
+before r[j] = 222
+before r[jplen] = 783
+after r[j] = 7c1
+after r[jplen] = 984
+----------------
+j = 149  and jplen = 151  zeta# is = 101
+zeta = 9f5
+before r[j] = 514
+before r[jplen] = f2
+after r[j] = 8f5
+after r[jplen] = 133
+**************************************
+start = 152
+**************************************
+----------------
+j = 152  and jplen = 154  zeta# is = 102
+zeta = 82a
+before r[j] = 984
+before r[jplen] = 4af
+after r[j] = 649
+after r[jplen] = cbf
+----------------
+j = 153  and jplen = 155  zeta# is = 102
+zeta = 82a
+before r[j] = c70
+before r[jplen] = 1ab
+after r[j] = 71
+after r[jplen] = b6e
+**************************************
+start = 156
+**************************************
+----------------
+j = 156  and jplen = 158  zeta# is = 103
+zeta = 66d
+before r[j] = 97f
+before r[jplen] = a00
+after r[j] = 98e
+after r[jplen] = 970
+----------------
+j = 157  and jplen = 159  zeta# is = 103
+zeta = 66d
+before r[j] = ccd
+before r[jplen] = 374
+after r[j] = a7c
+after r[jplen] = 21d
+**************************************
+start = 160
+**************************************
+----------------
+j = 160  and jplen = 162  zeta# is = 104
+zeta = 427
+before r[j] = c2
+before r[jplen] = 3ea
+after r[j] = 28
+after r[jplen] = 15c
+----------------
+j = 161  and jplen = 163  zeta# is = 104
+zeta = 427
+before r[j] = bf1
+before r[jplen] = 8c6
+after r[j] = 14d
+after r[jplen] = 994
+**************************************
+start = 164
+**************************************
+----------------
+j = 164  and jplen = 166  zeta# is = 105
+zeta = 13f
+before r[j] = 8d1
+before r[jplen] = 3df
+after r[j] = 853
+after r[jplen] = 94f
+----------------
+j = 165  and jplen = 167  zeta# is = 105
+zeta = 13f
+before r[j] = 404
+before r[jplen] = 4e9
+after r[j] = 9e3
+after r[jplen] = b26
+**************************************
+start = 168
+**************************************
+----------------
+j = 168  and jplen = 170  zeta# is = 106
+zeta = ad5
+before r[j] = 98e
+before r[jplen] = 964
+after r[j] = 2ef
+after r[jplen] = 32c
+----------------
+j = 169  and jplen = 171  zeta# is = 106
+zeta = ad5
+before r[j] = db
+before r[jplen] = a4c
+after r[j] = a84
+after r[jplen] = 433
+**************************************
+start = 172
+**************************************
+----------------
+j = 172  and jplen = 174  zeta# is = 107
+zeta = 2f5
+before r[j] = c8e
+before r[jplen] = 4ef
+after r[j] = 229
+after r[jplen] = 9f2
+----------------
+j = 173  and jplen = 175  zeta# is = 107
+zeta = 2f5
+before r[j] = 37e
+before r[jplen] = ab5
+after r[j] = 748
+after r[jplen] = cb5
+**************************************
+start = 176
+**************************************
+----------------
+j = 176  and jplen = 178  zeta# is = 108
+zeta = 833
+before r[j] = af6
+before r[jplen] = 4c8
+after r[j] = 7ca
+after r[jplen] = 121
+----------------
+j = 177  and jplen = 179  zeta# is = 108
+zeta = 833
+before r[j] = 713
+before r[jplen] = 9b7
+after r[j] = 868
+after r[jplen] = 5be
+**************************************
+start = 180
+**************************************
+----------------
+j = 180  and jplen = 182  zeta# is = 109
+zeta = 231
+before r[j] = 847
+before r[jplen] = 8db
+after r[j] = 8b4
+after r[jplen] = 7da
+----------------
+j = 181  and jplen = 183  zeta# is = 109
+zeta = 231
+before r[j] = 11b
+before r[jplen] = c49
+after r[j] = 102
+after r[jplen] = 134
+**************************************
+start = 184
+**************************************
+----------------
+j = 184  and jplen = 186  zeta# is = 110
+zeta = 9a2
+before r[j] = 618
+before r[jplen] = c9c
+after r[j] = 879
+after r[jplen] = 3b7
+----------------
+j = 185  and jplen = 187  zeta# is = 110
+zeta = 9a2
+before r[j] = 663
+before r[jplen] = 3f9
+after r[j] = b04
+after r[jplen] = 1c2
+**************************************
+start = 188
+**************************************
+----------------
+j = 188  and jplen = 190  zeta# is = 111
+zeta = a22
+before r[j] = b1e
+before r[jplen] = b00
+after r[j] = 18b
+after r[jplen] = 7b0
+----------------
+j = 189  and jplen = 191  zeta# is = 111
+zeta = a22
+before r[j] = 41b
+before r[jplen] = 94a
+after r[j] = 3b2
+after r[jplen] = 484
+**************************************
+start = 192
+**************************************
+----------------
+j = 192  and jplen = 194  zeta# is = 112
+zeta = af4
+before r[j] = 16f
+before r[jplen] = 6bd
+after r[j] = e6
+after r[jplen] = 1f8
+----------------
+j = 193  and jplen = 195  zeta# is = 112
+zeta = af4
+before r[j] = b9e
+before r[jplen] = 3ec
+after r[j] = 740
+after r[jplen] = 2fb
+**************************************
+start = 196
+**************************************
+----------------
+j = 196  and jplen = 198  zeta# is = 113
+zeta = 444
+before r[j] = 1e8
+before r[jplen] = 682
+after r[j] = 84e
+after r[jplen] = 883
+----------------
+j = 197  and jplen = 199  zeta# is = 113
+zeta = 444
+before r[j] = e1
+before r[jplen] = c84
+after r[j] = d6
+after r[jplen] = ec
+**************************************
+start = 200
+**************************************
+----------------
+j = 200  and jplen = 202  zeta# is = 114
+zeta = 193
+before r[j] = 361
+before r[jplen] = 896
+after r[j] = 479
+after r[jplen] = 249
+----------------
+j = 201  and jplen = 203  zeta# is = 114
+zeta = 193
+before r[j] = 2a0
+before r[jplen] = 4b
+after r[j] = 3a8
+after r[jplen] = 198
+**************************************
+start = 204
+**************************************
+----------------
+j = 204  and jplen = 206  zeta# is = 115
+zeta = 402
+before r[j] = b17
+before r[jplen] = 73f
+after r[j] = 759
+after r[jplen] = 1d4
+----------------
+j = 205  and jplen = 207  zeta# is = 115
+zeta = 402
+before r[j] = a6c
+before r[jplen] = 21a
+after r[j] = 7fa
+after r[jplen] = cde
+**************************************
+start = 208
+**************************************
+----------------
+j = 208  and jplen = 210  zeta# is = 116
+zeta = 477
+before r[j] = aa1
+before r[jplen] = 9cc
+after r[j] = c18
+after r[jplen] = 92a
+----------------
+j = 209  and jplen = 211  zeta# is = 116
+zeta = 477
+before r[j] = 4f8
+before r[jplen] = 1c
+after r[j] = cf3
+after r[jplen] = 9fe
+**************************************
+start = 212
+**************************************
+----------------
+j = 212  and jplen = 214  zeta# is = 117
+zeta = 866
+before r[j] = 43a
+before r[jplen] = a35
+after r[j] = bc1
+after r[jplen] = 9b4
+----------------
+j = 213  and jplen = 215  zeta# is = 117
+zeta = 866
+before r[j] = 7db
+before r[jplen] = 14
+after r[j] = 6c6
+after r[jplen] = 8f0
+**************************************
+start = 216
+**************************************
+----------------
+j = 216  and jplen = 218  zeta# is = 118
+zeta = ad7
+before r[j] = f9
+before r[jplen] = 321
+after r[j] = a15
+after r[jplen] = 4de
+----------------
+j = 217  and jplen = 219  zeta# is = 118
+zeta = ad7
+before r[j] = 124
+before r[jplen] = 8a6
+after r[j] = 859
+after r[jplen] = 6f0
+**************************************
+start = 220
+**************************************
+----------------
+j = 220  and jplen = 222  zeta# is = 119
+zeta = 376
+before r[j] = b5f
+before r[jplen] = 7c
+after r[j] = b66
+after r[jplen] = b58
+----------------
+j = 221  and jplen = 223  zeta# is = 119
+zeta = 376
+before r[j] = 724
+before r[jplen] = c57
+after r[j] = 3f5
+after r[jplen] = a53
+**************************************
+start = 224
+**************************************
+----------------
+j = 224  and jplen = 226  zeta# is = 120
+zeta = 6ba
+before r[j] = 15c
+before r[jplen] = 100
+after r[j] = 6d8
+after r[jplen] = 8e1
+----------------
+j = 225  and jplen = 227  zeta# is = 120
+zeta = 6ba
+before r[j] = c6d
+before r[jplen] = c0c
+after r[j] = 2e9
+after r[jplen] = 8f0
+**************************************
+start = 228
+**************************************
+----------------
+j = 228  and jplen = 230  zeta# is = 121
+zeta = 4bc
+before r[j] = 306
+before r[jplen] = 3a1
+after r[j] = 5f0
+after r[jplen] = 1c
+----------------
+j = 229  and jplen = 231  zeta# is = 121
+zeta = 4bc
+before r[j] = 93d
+before r[jplen] = 5cd
+after r[j] = 4ac
+after r[jplen] = cd
+**************************************
+start = 232
+**************************************
+----------------
+j = 232  and jplen = 234  zeta# is = 122
+zeta = 752
+before r[j] = 523
+before r[jplen] = 296
+after r[j] = ba
+after r[jplen] = 98c
+----------------
+j = 233  and jplen = 235  zeta# is = 122
+zeta = 752
+before r[j] = 458
+before r[jplen] = a0c
+after r[j] = 288
+after r[jplen] = 628
+**************************************
+start = 236
+**************************************
+----------------
+j = 236  and jplen = 238  zeta# is = 123
+zeta = 405
+before r[j] = 7b2
+before r[jplen] = 630
+after r[j] = 2b8
+after r[jplen] = cac
+----------------
+j = 237  and jplen = 239  zeta# is = 123
+zeta = 405
+before r[j] = b92
+before r[jplen] = a53
+after r[j] = b00
+after r[jplen] = c24
+**************************************
+start = 240
+**************************************
+----------------
+j = 240  and jplen = 242  zeta# is = 124
+zeta = 83e
+before r[j] = 61
+before r[jplen] = c8
+after r[j] = a53
+after r[jplen] = 370
+----------------
+j = 241  and jplen = 243  zeta# is = 124
+zeta = 83e
+before r[j] = 7c5
+before r[jplen] = 246
+after r[j] = 648
+after r[jplen] = 942
+**************************************
+start = 244
+**************************************
+----------------
+j = 244  and jplen = 246  zeta# is = 125
+zeta = b77
+before r[j] = 4da
+before r[jplen] = cf7
+after r[j] = 73d
+after r[jplen] = 277
+----------------
+j = 245  and jplen = 247  zeta# is = 125
+zeta = b77
+before r[j] = 323
+before r[jplen] = 93b
+after r[j] = 76d
+after r[jplen] = bda
+**************************************
+start = 248
+**************************************
+----------------
+j = 248  and jplen = 250  zeta# is = 126
+zeta = 375
+before r[j] = b6e
+before r[jplen] = 7f
+after r[j] = 857
+after r[jplen] = 184
+----------------
+j = 249  and jplen = 251  zeta# is = 126
+zeta = 375
+before r[j] = 7c1
+before r[jplen] = 2c6
+after r[j] = 482
+after r[jplen] = b00
+**************************************
+start = 252
+**************************************
+----------------
+j = 252  and jplen = 254  zeta# is = 127
+zeta = 86a
+before r[j] = 370
+before r[jplen] = 789
+after r[j] = 54a
+after r[jplen] = 196
+----------------
+j = 253  and jplen = 255  zeta# is = 127
+zeta = 86a
+before r[j] = 14f
+before r[jplen] = a8f
+after r[j] = b0
+after r[jplen] = 1ee
